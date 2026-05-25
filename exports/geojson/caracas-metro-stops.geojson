@@ -1,0 +1,994 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9307622,
+          10.5133323
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:agua-salud",
+        "name": "Agua Salud",
+        "system": "caracas-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q11283062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8488527,
+          10.4954478
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:altamira",
+        "name": "Altamira",
+        "system": "caracas-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q5670810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9011156,
+          10.5012426
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:bellas-artes",
+        "name": "Bellas Artes",
+        "system": "caracas-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q11336849"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9232847,
+          10.5087554
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:cano-amarillo",
+        "name": "Caño Amarillo",
+        "system": "caracas-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q11295677"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9176005,
+          10.5048974
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:capitolio",
+        "name": "Capitolio",
+        "system": "caracas-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q11294573"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8683538,
+          10.4909905
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:chacaito",
+        "name": "Chacaíto",
+        "system": "caracas-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q8344452"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8545356,
+          10.4930309
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:chacao",
+        "name": "Chacao",
+        "system": "caracas-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q11318084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8924959,
+          10.5012229
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:colegio-de-ingenieros",
+        "name": "Colegio de Ingenieros",
+        "system": "caracas-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q11302848"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9393814,
+          10.5156721
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:gato-negro",
+        "name": "Gato Negro",
+        "system": "caracas-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q11296100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8183831,
+          10.482001
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:la-california",
+        "name": "La California",
+        "system": "caracas-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q11346650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.910527,
+          10.5033702
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:la-hoyada",
+        "name": "La Hoyada",
+        "system": "caracas-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q11347683"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8265,
+          10.4889
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:los-cortijos",
+        "name": "Los Cortijos",
+        "system": "caracas-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q5979604"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.832339,
+          10.4941844
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:los-dos-caminos",
+        "name": "Los Dos Caminos",
+        "system": "caracas-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q11350371"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8414055,
+          10.497338
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:miranda",
+        "name": "Miranda",
+        "system": "caracas-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q11329424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.7988352,
+          10.4785189
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:palo-verde",
+        "name": "Palo Verde",
+        "system": "caracas-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q9054862"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9054419,
+          10.5023442
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:parque-carabobo",
+        "name": "Parque Carabobo",
+        "system": "caracas-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q11329423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9477449,
+          10.5084317
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:perez-bonalde",
+        "name": "Pérez Bonalde",
+        "system": "caracas-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q11337521"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8072228,
+          10.4787104
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:petare",
+        "name": "Petare",
+        "system": "caracas-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q6073300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9464484,
+          10.5145388
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:plaza-sucre",
+        "name": "Plaza Sucre",
+        "system": "caracas-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q11335400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8814072,
+          10.4958041
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:plaza-venezuela",
+        "name": "Plaza Venezuela",
+        "system": "caracas-metro",
+        "lines": [
+          "L1",
+          "L3"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q5147237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9559588,
+          10.5047389
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:propatria",
+        "name": "Propatria",
+        "system": "caracas-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q6087917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8762072,
+          10.4938387
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:sabana-grande",
+        "name": "Sabana Grande",
+        "system": "caracas-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q6519134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9786238,
+          10.4655158
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:antimano",
+        "name": "Antímano",
+        "system": "caracas-metro",
+        "lines": [
+          "L2"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q17192613"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9412755,
+          10.4909762
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:artigas",
+        "name": "Artigas",
+        "system": "caracas-metro",
+        "lines": [
+          "L2"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q17192185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9253581,
+          10.4988945
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:capuchinos",
+        "name": "Capuchinos",
+        "system": "caracas-metro",
+        "lines": [
+          "L2",
+          "L4"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q8262796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9709587,
+          10.4708028
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:carapita",
+        "name": "Carapita",
+        "system": "caracas-metro",
+        "lines": [
+          "L2"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q17239907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.981246,
+          10.4347956
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:caricuao",
+        "name": "Caricuao",
+        "system": "caracas-metro",
+        "lines": [
+          "L2"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q18521858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9188129,
+          10.5060348
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:el-silencio",
+        "name": "El Silencio",
+        "system": "caracas-metro",
+        "lines": [
+          "L2"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q5400751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9480983,
+          10.4837008
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:la-paz",
+        "name": "La Paz",
+        "system": "caracas-metro",
+        "lines": [
+          "L2"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q11347192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9594846,
+          10.4768599
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:la-yaguara",
+        "name": "La Yaguara",
+        "system": "caracas-metro",
+        "lines": [
+          "L2"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q11346946"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.0129172,
+          10.4255577
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:las-adjuntas",
+        "name": "Las Adjuntas",
+        "system": "caracas-metro",
+        "lines": [
+          "L2"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q6492035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.986588,
+          10.4590303
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:mamera",
+        "name": "Mamera",
+        "system": "caracas-metro",
+        "lines": [
+          "L2"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q11340912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9326739,
+          10.4954242
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:maternidad",
+        "name": "Maternidad",
+        "system": "caracas-metro",
+        "lines": [
+          "L2"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q11340653"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9971086,
+          10.4370971
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:ruiz-pineda",
+        "name": "Ruíz Pineda",
+        "system": "caracas-metro",
+        "lines": [
+          "L2"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q22673563"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9726992,
+          10.4329293
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:zoologico",
+        "name": "Zoológico",
+        "system": "caracas-metro",
+        "lines": [
+          "L2"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q9097819"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8891631,
+          10.4880638
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:ciudad-universitaria",
+        "name": "Ciudad Universitaria",
+        "system": "caracas-metro",
+        "lines": [
+          "L3"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q5770721"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9234769,
+          10.447824
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:coche",
+        "name": "Coche",
+        "system": "caracas-metro",
+        "lines": [
+          "L3"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q5775839"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.90512,
+          10.46817
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:el-valle",
+        "name": "El Valle",
+        "system": "caracas-metro",
+        "lines": [
+          "L3"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q5801828"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9008891,
+          10.4794192
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:la-bandera",
+        "name": "La Bandera",
+        "system": "caracas-metro",
+        "lines": [
+          "L3"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q5661169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9364089,
+          10.4346581
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:la-rinconada",
+        "name": "La Rinconada",
+        "system": "caracas-metro",
+        "lines": [
+          "L3"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q5965109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9165304,
+          10.4589571
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:los-jardines",
+        "name": "Los Jardines",
+        "system": "caracas-metro",
+        "lines": [
+          "L3"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q5979856"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8951699,
+          10.4837793
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:los-simbolos",
+        "name": "Los Símbolos",
+        "system": "caracas-metro",
+        "lines": [
+          "L3"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q5980417"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.926071,
+          10.4404531
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:mercado",
+        "name": "Mercado",
+        "system": "caracas-metro",
+        "lines": [
+          "L3"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q6010420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9087247,
+          10.4993007
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:nuevo-circo",
+        "name": "Nuevo Circo",
+        "system": "caracas-metro",
+        "lines": [
+          "L4"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q6046877"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9020852,
+          10.4978934
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:parque-central",
+        "name": "Parque Central",
+        "system": "caracas-metro",
+        "lines": [
+          "L4"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q6062049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9167061,
+          10.500989
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:teatros",
+        "name": "Teatros",
+        "system": "caracas-metro",
+        "lines": [
+          "L4"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q12220864"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8829456,
+          10.4951069
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:zona-rental",
+        "name": "Zona Rental",
+        "system": "caracas-metro",
+        "lines": [
+          "L4"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q6171599"
+      }
+    }
+  ]
+}

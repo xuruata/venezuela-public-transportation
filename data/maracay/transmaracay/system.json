@@ -1,0 +1,17 @@
+{
+  "id": "maracay-transmaracay",
+  "name": "TransMaracay",
+  "city": "Maracay",
+  "state": "Aragua",
+  "country": "VE",
+  "type": "bus_rapid_transit",
+  "agency": {
+    "name": "TransMaracay",
+    "url": null,
+    "timezone": "America/Caracas",
+    "lang": "es"
+  },
+  "opened": "2015",
+  "status": "operational",
+  "notes": "BRT service with one E-W line connecting Tapa-Tapa to San Jacinto. A newer 'Metrobús Venezuela' fleet (66 units, ~13 strategic stops) has been added to complement the network."
+}

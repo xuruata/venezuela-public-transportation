@@ -1,0 +1,18 @@
+[
+  {
+    "id": "L1",
+    "short_name": "1",
+    "long_name": "Las Adjuntas ↔ Ayacucho",
+    "color": "#00ADBB",
+    "text_color": "#FFFFFF",
+    "type": "metro",
+    "status": "operational",
+    "opened": "2006-11-03",
+    "length_km": 9.5,
+    "stops_ordered": [
+      "las-adjuntas",
+      "ali-primera",
+      "ayacucho"
+    ]
+  }
+]

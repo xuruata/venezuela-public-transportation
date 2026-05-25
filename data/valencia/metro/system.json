@@ -1,0 +1,20 @@
+{
+  "id": "valencia-metro",
+  "name": "Metro de Valencia",
+  "city": "Valencia",
+  "state": "Carabobo",
+  "country": "VE",
+  "type": "metro",
+  "agency": {
+    "name": "C.A. Metro de Valencia",
+    "url": "https://metrodevalencia.gob.ve/",
+    "timezone": "America/Caracas",
+    "lang": "es"
+  },
+  "opened": "2006-11-18",
+  "status": "operational",
+  "lines_operational": [
+    "L1"
+  ],
+  "notes": "Line 1 (7 stations) is fully operational. Line 2 has 2 stations open since 2015 (Rafael Urdaneta, Francisco de Miranda). Lines 3 and 4 plus the 4 remaining Line 2 stations are excluded from this dataset per the operational-only policy."
+}

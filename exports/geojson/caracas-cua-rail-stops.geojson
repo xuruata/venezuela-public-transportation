@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.937222,
+          10.434444
+        ]
+      },
+      "properties": {
+        "id": "caracas-cua-rail:caracas-libertador-simon-bolivar",
+        "name": "Caracas (Libertador Simón Bolívar)",
+        "system": "caracas-cua-rail",
+        "lines": [
+          "TL1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q6541324"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.843721932,
+          10.274507455
+        ]
+      },
+      "properties": {
+        "id": "caracas-cua-rail:charallave-norte-francisco-de-miranda",
+        "name": "Charallave Norte (Francisco de Miranda)",
+        "system": "caracas-cua-rail",
+        "lines": [
+          "TL1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q5841536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.856564028,
+          10.23723162
+        ]
+      },
+      "properties": {
+        "id": "caracas-cua-rail:charallave-sur-simon-rodriguez",
+        "name": "Charallave Sur (Simón Rodríguez)",
+        "system": "caracas-cua-rail",
+        "lines": [
+          "TL1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q2835413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.873787747,
+          10.153980539
+        ]
+      },
+      "properties": {
+        "id": "caracas-cua-rail:cua-general-ezequiel-zamora",
+        "name": "Cúa (General Ezequiel Zamora)",
+        "system": "caracas-cua-rail",
+        "lines": [
+          "TL1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q5841860"
+      }
+    }
+  ]
+}

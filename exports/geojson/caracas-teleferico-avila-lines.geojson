@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.8866,
+            10.506
+          ],
+          [
+            -66.88032,
+            10.5411
+          ]
+        ]
+      },
+      "properties": {
+        "id": "caracas-teleferico-avila:L1",
+        "system": "caracas-teleferico-avila",
+        "line": "L1",
+        "short_name": "Maripérez–Ávila",
+        "long_name": "Maripérez ↔ Cumbre Ávila",
+        "color": "#5DADE2",
+        "status": "operational",
+        "type": "aerial_tramway",
+        "alignment_note": "Approximate alignment — straight segments between station coordinates. Not the actual track geometry."
+      }
+    }
+  ]
+}

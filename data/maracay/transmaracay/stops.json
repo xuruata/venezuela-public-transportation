@@ -1,0 +1,24 @@
+[
+  {
+    "id": "tapa-tapa",
+    "name": "Tapa-Tapa",
+    "lat": null,
+    "lon": null,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational",
+    "notes": "Western terminus."
+  },
+  {
+    "id": "san-jacinto",
+    "name": "San Jacinto (Terminal de Oriente)",
+    "lat": null,
+    "lon": null,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational",
+    "notes": "Eastern terminus at Terminal de Oriente."
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.937222,
+            10.434444
+          ],
+          [
+            -66.843721932,
+            10.274507455
+          ],
+          [
+            -66.856564028,
+            10.23723162
+          ],
+          [
+            -66.873787747,
+            10.153980539
+          ]
+        ]
+      },
+      "properties": {
+        "id": "caracas-cua-rail:TL1",
+        "system": "caracas-cua-rail",
+        "line": "TL1",
+        "short_name": "TL1",
+        "long_name": "Caracas ↔ Cúa",
+        "color": "#7B2D8E",
+        "status": "operational",
+        "type": "commuter_rail",
+        "alignment_note": "Approximate alignment — straight segments between station coordinates. Not the actual track geometry."
+      }
+    }
+  ]
+}

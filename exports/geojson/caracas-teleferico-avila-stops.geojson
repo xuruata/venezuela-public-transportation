@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.8866,
+          10.506
+        ]
+      },
+      "properties": {
+        "id": "caracas-teleferico-avila:mariperez",
+        "name": "Maripérez (base)",
+        "system": "caracas-teleferico-avila",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.88032,
+          10.5411
+        ]
+      },
+      "properties": {
+        "id": "caracas-teleferico-avila:cumbre-avila",
+        "name": "Ávila (cumbre)",
+        "system": "caracas-teleferico-avila",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q20994756"
+      }
+    }
+  ]
+}

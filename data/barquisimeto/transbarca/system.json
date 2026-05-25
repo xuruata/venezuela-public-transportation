@@ -1,0 +1,22 @@
+{
+  "id": "barquisimeto-transbarca",
+  "name": "Transbarca",
+  "city": "Barquisimeto",
+  "state": "Lara",
+  "country": "VE",
+  "type": "bus_rapid_transit",
+  "agency": {
+    "name": "Transbarca C.A.",
+    "url": null,
+    "timezone": "America/Caracas",
+    "lang": "es"
+  },
+  "opened": "2013-09-14",
+  "status": "operational",
+  "ridership_daily": 300000,
+  "lines_operational": [
+    "L1",
+    "L2"
+  ],
+  "notes": "BRT system with 2 trunk corridors plus feeder routes. Major hubs at Estación Central Simón Bolívar (west) and Rectorado UCLA / Las Trinitarias (east)."
+}

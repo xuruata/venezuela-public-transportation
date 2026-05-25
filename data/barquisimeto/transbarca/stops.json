@@ -1,0 +1,132 @@
+[
+  {
+    "id": "central-simon-bolivar",
+    "name": "Estación Central Simón Bolívar",
+    "lat": null,
+    "lon": null,
+    "lines": [
+      "L1",
+      "L2"
+    ],
+    "status": "operational",
+    "notes": "Western terminus and main hub."
+  },
+  {
+    "id": "polo",
+    "name": "Polo",
+    "lat": 10.11704,
+    "lon": -69.24727,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational",
+    "notes": "Coordinates from OpenStreetMap; exact role on the corridor needs verification."
+  },
+  {
+    "id": "barquisimeto",
+    "name": "Barquisimeto",
+    "lat": null,
+    "lon": null,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational",
+    "notes": "Closed-type station."
+  },
+  {
+    "id": "cementerio",
+    "name": "Cementerio",
+    "lat": null,
+    "lon": null,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational",
+    "notes": "Closed-type station."
+  },
+  {
+    "id": "la-salle",
+    "name": "La Salle",
+    "lat": null,
+    "lon": null,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational",
+    "notes": "Closed-type station."
+  },
+  {
+    "id": "centro",
+    "name": "Centro",
+    "lat": null,
+    "lon": null,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational"
+  },
+  {
+    "id": "comercial-puerta-del-este",
+    "name": "Comercial Puerta del Este",
+    "lat": null,
+    "lon": null,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational"
+  },
+  {
+    "id": "metropolis",
+    "name": "Metrópolis",
+    "lat": null,
+    "lon": null,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational",
+    "notes": "Adjacent to Centro Comercial Metrópolis."
+  },
+  {
+    "id": "ucla",
+    "name": "UCLA",
+    "lat": null,
+    "lon": null,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational",
+    "notes": "Serves Universidad Centroccidental Lisandro Alvarado."
+  },
+  {
+    "id": "ucla-rectorado",
+    "name": "Rectorado UCLA",
+    "lat": null,
+    "lon": null,
+    "lines": [
+      "L2"
+    ],
+    "status": "operational"
+  },
+  {
+    "id": "sambil",
+    "name": "Sambil",
+    "lat": null,
+    "lon": null,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational",
+    "notes": "Adjacent to Centro Sambil shopping mall."
+  },
+  {
+    "id": "las-trinitarias",
+    "name": "Las Trinitarias",
+    "lat": null,
+    "lon": null,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational",
+    "notes": "Eastern terminus, near the Sol Naciente roundabout."
+  }
+]

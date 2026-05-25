@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.24727,
+          10.11704
+        ]
+      },
+      "properties": {
+        "id": "barquisimeto-transbarca:polo",
+        "name": "Polo",
+        "system": "barquisimeto-transbarca",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": null
+      }
+    }
+  ]
+}

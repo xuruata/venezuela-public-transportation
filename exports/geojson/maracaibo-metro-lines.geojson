@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.6683,
+            10.6161
+          ],
+          [
+            -71.6591,
+            10.6237
+          ],
+          [
+            -71.6493,
+            10.6264
+          ],
+          [
+            -71.64,
+            10.63
+          ],
+          [
+            -71.6303,
+            10.6356
+          ],
+          [
+            -71.6214,
+            10.6391
+          ]
+        ]
+      },
+      "properties": {
+        "id": "maracaibo-metro:L1",
+        "system": "maracaibo-metro",
+        "line": "L1",
+        "short_name": "1",
+        "long_name": "Altos de La Vanega ↔ Libertador",
+        "color": "#E30613",
+        "status": "operational",
+        "type": "light_rail",
+        "alignment_note": "Approximate alignment — straight segments between station coordinates. Not the actual track geometry."
+      }
+    }
+  ]
+}

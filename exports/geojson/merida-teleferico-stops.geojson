@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1414826,
+          8.5915293
+        ]
+      },
+      "properties": {
+        "id": "merida-teleferico:barinitas",
+        "name": "Barinitas",
+        "system": "merida-teleferico",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": 1577,
+        "wikidata": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1164344,
+          8.5749985
+        ]
+      },
+      "properties": {
+        "id": "merida-teleferico:la-montana",
+        "name": "La Montaña",
+        "system": "merida-teleferico",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": 2436,
+        "wikidata": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0895798,
+          8.5654095
+        ]
+      },
+      "properties": {
+        "id": "merida-teleferico:la-aguada",
+        "name": "La Aguada",
+        "system": "merida-teleferico",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": 3452,
+        "wikidata": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0765539,
+          8.5442849
+        ]
+      },
+      "properties": {
+        "id": "merida-teleferico:loma-redonda",
+        "name": "Loma Redonda",
+        "system": "merida-teleferico",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": 4045,
+        "wikidata": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0533308,
+          8.5316351
+        ]
+      },
+      "properties": {
+        "id": "merida-teleferico:pico-espejo",
+        "name": "Pico Espejo",
+        "system": "merida-teleferico",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": 4765,
+        "wikidata": null
+      }
+    }
+  ]
+}

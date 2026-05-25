@@ -1,0 +1,194 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.99728,
+          10.14646
+        ]
+      },
+      "properties": {
+        "id": "valencia-metro:monumental",
+        "name": "Monumental",
+        "system": "valencia-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0002,
+          10.15958
+        ]
+      },
+      "properties": {
+        "id": "valencia-metro:palotal",
+        "name": "Palotal",
+        "system": "valencia-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.00452,
+          10.18773
+        ]
+      },
+      "properties": {
+        "id": "valencia-metro:cedeno",
+        "name": "Cedeño",
+        "system": "valencia-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.99938,
+          10.15365
+        ]
+      },
+      "properties": {
+        "id": "valencia-metro:las-ferias",
+        "name": "Las Ferias",
+        "system": "valencia-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.00096,
+          10.16503
+        ]
+      },
+      "properties": {
+        "id": "valencia-metro:santa-rosa",
+        "name": "Santa Rosa",
+        "system": "valencia-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.00195,
+          10.17122
+        ]
+      },
+      "properties": {
+        "id": "valencia-metro:michelena",
+        "name": "Michelena",
+        "system": "valencia-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.00288,
+          10.17721
+        ]
+      },
+      "properties": {
+        "id": "valencia-metro:lara",
+        "name": "Lara",
+        "system": "valencia-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.00546,
+          10.19383
+        ]
+      },
+      "properties": {
+        "id": "valencia-metro:rafael-urdaneta",
+        "name": "Rafael Urdaneta",
+        "system": "valencia-metro",
+        "lines": [
+          "L2"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.00659,
+          10.20124
+        ]
+      },
+      "properties": {
+        "id": "valencia-metro:francisco-de-miranda",
+        "name": "Francisco de Miranda",
+        "system": "valencia-metro",
+        "lines": [
+          "L2"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": null
+      }
+    }
+  ]
+}

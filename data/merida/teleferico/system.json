@@ -1,0 +1,26 @@
+{
+  "id": "merida-teleferico",
+  "name": "Sistema Teleférico Mukumbarí",
+  "alt_names": [
+    "Teleférico de Mérida"
+  ],
+  "city": "Mérida",
+  "state": "Mérida",
+  "country": "VE",
+  "type": "aerial_tramway",
+  "agency": {
+    "name": "VENTEL — Sistema Teleférico Mukumbarí",
+    "url": "https://mukumbari.gob.ve/",
+    "timezone": "America/Caracas",
+    "lang": "es"
+  },
+  "opened": "1960",
+  "reopened": "2016-10",
+  "status": "operational",
+  "length_km": 12.5,
+  "records": [
+    "Longest aerial tramway in the world",
+    "Highest aerial tramway in the world (Pico Espejo at 4,765 m)"
+  ],
+  "notes": "Four-segment cable car system through Sierra Nevada National Park. Closed 2008-2016 for full reconstruction. Closed again 2020-2022 for maintenance; all stations operational again by January 2023."
+}

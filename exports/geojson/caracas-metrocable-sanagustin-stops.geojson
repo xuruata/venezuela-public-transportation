@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9027,
+          10.499
+        ]
+      },
+      "properties": {
+        "id": "caracas-metrocable-sanagustin:parque-central",
+        "name": "Parque Central",
+        "system": "caracas-metrocable-sanagustin",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9032,
+          10.4951
+        ]
+      },
+      "properties": {
+        "id": "caracas-metrocable-sanagustin:hornos-de-cal",
+        "name": "Hornos de Cal",
+        "system": "caracas-metrocable-sanagustin",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9027,
+          10.4929
+        ]
+      },
+      "properties": {
+        "id": "caracas-metrocable-sanagustin:la-ceiba",
+        "name": "La Ceiba",
+        "system": "caracas-metrocable-sanagustin",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": null
+      }
+    }
+  ]
+}

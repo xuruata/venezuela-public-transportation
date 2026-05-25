@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.03888889,
+          10.35222222
+        ]
+      },
+      "properties": {
+        "id": "losteques-metro:ali-primera",
+        "name": "Alí Primera",
+        "system": "losteques-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q16485640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.028652777,
+          10.362333333
+        ]
+      },
+      "properties": {
+        "id": "losteques-metro:ayacucho",
+        "name": "Ayacucho",
+        "system": "losteques-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q20994757"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.0129172,
+          10.4255577
+        ]
+      },
+      "properties": {
+        "id": "losteques-metro:las-adjuntas",
+        "name": "Las Adjuntas",
+        "system": "losteques-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q6492035"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "L1",
+    "short_name": "Mukumbarí",
+    "long_name": "Barinitas ↔ Pico Espejo",
+    "color": "#0072CE",
+    "text_color": "#FFFFFF",
+    "type": "aerial_tramway",
+    "status": "operational",
+    "length_km": 12.5,
+    "stops_ordered": [
+      "barinitas",
+      "la-montana",
+      "la-aguada",
+      "loma-redonda",
+      "pico-espejo"
+    ],
+    "segments": [
+      {
+        "from": "barinitas",
+        "to": "la-montana"
+      },
+      {
+        "from": "la-montana",
+        "to": "la-aguada"
+      },
+      {
+        "from": "la-aguada",
+        "to": "loma-redonda"
+      },
+      {
+        "from": "loma-redonda",
+        "to": "pico-espejo"
+      }
+    ]
+  }
+]

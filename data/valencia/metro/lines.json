@@ -1,0 +1,37 @@
+[
+  {
+    "id": "L1",
+    "short_name": "1",
+    "long_name": "Monumental ↔ Lara",
+    "color": "#E30613",
+    "text_color": "#FFFFFF",
+    "type": "metro",
+    "status": "operational",
+    "opened": "2006-11-18",
+    "length_km": 6.2,
+    "stops_ordered": [
+      "monumental",
+      "palotal",
+      "cedeno",
+      "las-ferias",
+      "santa-rosa",
+      "michelena",
+      "lara"
+    ]
+  },
+  {
+    "id": "L2",
+    "short_name": "2",
+    "long_name": "Rafael Urdaneta ↔ Francisco de Miranda",
+    "color": "#FFCD00",
+    "text_color": "#000000",
+    "type": "metro",
+    "status": "operational",
+    "opened": "2015-04-29",
+    "notes": "Only the first 2 of an originally planned 6-station alignment are operational; the rest is excluded per the operational-only policy.",
+    "stops_ordered": [
+      "rafael-urdaneta",
+      "francisco-de-miranda"
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -67.0129172,
+            10.4255577
+          ],
+          [
+            -67.03888889,
+            10.35222222
+          ],
+          [
+            -67.028652777,
+            10.362333333
+          ]
+        ]
+      },
+      "properties": {
+        "id": "losteques-metro:L1",
+        "system": "losteques-metro",
+        "line": "L1",
+        "short_name": "1",
+        "long_name": "Las Adjuntas ↔ Ayacucho",
+        "color": "#00ADBB",
+        "status": "operational",
+        "type": "metro",
+        "alignment_note": "Approximate alignment — straight segments between station coordinates. Not the actual track geometry."
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6683,
+          10.6161
+        ]
+      },
+      "properties": {
+        "id": "maracaibo-metro:altos-de-la-vanega",
+        "name": "Altos de La Vanega",
+        "system": "maracaibo-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q15695363"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6591,
+          10.6237
+        ]
+      },
+      "properties": {
+        "id": "maracaibo-metro:el-varillal",
+        "name": "El Varillal",
+        "system": "maracaibo-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q15695364"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6493,
+          10.6264
+        ]
+      },
+      "properties": {
+        "id": "maracaibo-metro:el-guayabal",
+        "name": "El Guayabal",
+        "system": "maracaibo-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": "Q15695366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.64,
+          10.63
+        ]
+      },
+      "properties": {
+        "id": "maracaibo-metro:sabaneta",
+        "name": "Sabaneta",
+        "system": "maracaibo-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6303,
+          10.6356
+        ]
+      },
+      "properties": {
+        "id": "maracaibo-metro:urdaneta",
+        "name": "Urdaneta",
+        "system": "maracaibo-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.6214,
+          10.6391
+        ]
+      },
+      "properties": {
+        "id": "maracaibo-metro:libertador",
+        "name": "Libertador",
+        "system": "maracaibo-metro",
+        "lines": [
+          "L1"
+        ],
+        "status": "operational",
+        "altitude_m": null,
+        "wikidata": null
+      }
+    }
+  ]
+}

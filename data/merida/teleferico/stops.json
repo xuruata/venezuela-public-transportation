@@ -1,0 +1,59 @@
+[
+  {
+    "id": "barinitas",
+    "name": "Barinitas",
+    "lat": 8.5915293,
+    "lon": -71.1414826,
+    "altitude_m": 1577,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational",
+    "notes": "Base station in the city of Mérida."
+  },
+  {
+    "id": "la-montana",
+    "name": "La Montaña",
+    "lat": 8.5749985,
+    "lon": -71.1164344,
+    "altitude_m": 2436,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational"
+  },
+  {
+    "id": "la-aguada",
+    "name": "La Aguada",
+    "lat": 8.5654095,
+    "lon": -71.0895798,
+    "altitude_m": 3452,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational"
+  },
+  {
+    "id": "loma-redonda",
+    "name": "Loma Redonda",
+    "lat": 8.5442849,
+    "lon": -71.0765539,
+    "altitude_m": 4045,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational"
+  },
+  {
+    "id": "pico-espejo",
+    "name": "Pico Espejo",
+    "lat": 8.5316351,
+    "lon": -71.0533308,
+    "altitude_m": 4765,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational",
+    "notes": "Highest point of the system. Located in Sierra Nevada National Park."
+  }
+]

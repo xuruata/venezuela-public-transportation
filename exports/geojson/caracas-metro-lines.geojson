@@ -1,0 +1,277 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.9559588,
+            10.5047389
+          ],
+          [
+            -66.9477449,
+            10.5084317
+          ],
+          [
+            -66.9464484,
+            10.5145388
+          ],
+          [
+            -66.9393814,
+            10.5156721
+          ],
+          [
+            -66.9307622,
+            10.5133323
+          ],
+          [
+            -66.9232847,
+            10.5087554
+          ],
+          [
+            -66.9176005,
+            10.5048974
+          ],
+          [
+            -66.910527,
+            10.5033702
+          ],
+          [
+            -66.9054419,
+            10.5023442
+          ],
+          [
+            -66.9011156,
+            10.5012426
+          ],
+          [
+            -66.8924959,
+            10.5012229
+          ],
+          [
+            -66.8814072,
+            10.4958041
+          ],
+          [
+            -66.8762072,
+            10.4938387
+          ],
+          [
+            -66.8683538,
+            10.4909905
+          ],
+          [
+            -66.8545356,
+            10.4930309
+          ],
+          [
+            -66.8488527,
+            10.4954478
+          ],
+          [
+            -66.8414055,
+            10.497338
+          ],
+          [
+            -66.832339,
+            10.4941844
+          ],
+          [
+            -66.8265,
+            10.4889
+          ],
+          [
+            -66.8183831,
+            10.482001
+          ],
+          [
+            -66.8072228,
+            10.4787104
+          ],
+          [
+            -66.7988352,
+            10.4785189
+          ]
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:L1",
+        "system": "caracas-metro",
+        "line": "L1",
+        "short_name": "1",
+        "long_name": "Propatria ↔ Palo Verde",
+        "color": "#E30613",
+        "status": "operational",
+        "type": "metro",
+        "alignment_note": "Approximate alignment — straight segments between station coordinates. Not the actual track geometry."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -67.0129172,
+            10.4255577
+          ],
+          [
+            -66.9971086,
+            10.4370971
+          ],
+          [
+            -66.9726992,
+            10.4329293
+          ],
+          [
+            -66.981246,
+            10.4347956
+          ],
+          [
+            -66.986588,
+            10.4590303
+          ],
+          [
+            -66.9786238,
+            10.4655158
+          ],
+          [
+            -66.9709587,
+            10.4708028
+          ],
+          [
+            -66.9594846,
+            10.4768599
+          ],
+          [
+            -66.9480983,
+            10.4837008
+          ],
+          [
+            -66.9412755,
+            10.4909762
+          ],
+          [
+            -66.9326739,
+            10.4954242
+          ],
+          [
+            -66.9253581,
+            10.4988945
+          ],
+          [
+            -66.9188129,
+            10.5060348
+          ]
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:L2",
+        "system": "caracas-metro",
+        "line": "L2",
+        "short_name": "2",
+        "long_name": "Las Adjuntas ↔ El Silencio",
+        "color": "#009639",
+        "status": "operational",
+        "type": "metro",
+        "alignment_note": "Approximate alignment — straight segments between station coordinates. Not the actual track geometry."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.8814072,
+            10.4958041
+          ],
+          [
+            -66.8891631,
+            10.4880638
+          ],
+          [
+            -66.8951699,
+            10.4837793
+          ],
+          [
+            -66.9008891,
+            10.4794192
+          ],
+          [
+            -66.90512,
+            10.46817
+          ],
+          [
+            -66.9165304,
+            10.4589571
+          ],
+          [
+            -66.9234769,
+            10.447824
+          ],
+          [
+            -66.926071,
+            10.4404531
+          ],
+          [
+            -66.9364089,
+            10.4346581
+          ]
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:L3",
+        "system": "caracas-metro",
+        "line": "L3",
+        "short_name": "3",
+        "long_name": "Plaza Venezuela ↔ La Rinconada",
+        "color": "#0072CE",
+        "status": "operational",
+        "type": "metro",
+        "alignment_note": "Approximate alignment — straight segments between station coordinates. Not the actual track geometry."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.9253581,
+            10.4988945
+          ],
+          [
+            -66.9167061,
+            10.500989
+          ],
+          [
+            -66.9087247,
+            10.4993007
+          ],
+          [
+            -66.9020852,
+            10.4978934
+          ],
+          [
+            -66.8829456,
+            10.4951069
+          ]
+        ]
+      },
+      "properties": {
+        "id": "caracas-metro:L4",
+        "system": "caracas-metro",
+        "line": "L4",
+        "short_name": "4",
+        "long_name": "Capuchinos ↔ Zona Rental",
+        "color": "#FFCD00",
+        "status": "operational",
+        "type": "metro",
+        "alignment_note": "Approximate alignment — straight segments between station coordinates. Not the actual track geometry."
+      }
+    }
+  ]
+}

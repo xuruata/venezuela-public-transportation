@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.9027,
+            10.499
+          ],
+          [
+            -66.9032,
+            10.4951
+          ],
+          [
+            -66.9027,
+            10.4929
+          ]
+        ]
+      },
+      "properties": {
+        "id": "caracas-metrocable-sanagustin:L1",
+        "system": "caracas-metrocable-sanagustin",
+        "line": "L1",
+        "short_name": "MC-SA",
+        "long_name": "Parque Central ↔ San Agustín",
+        "color": "#FFA500",
+        "status": "operational",
+        "type": "gondola_lift",
+        "alignment_note": "Approximate alignment — straight segments between station coordinates. Not the actual track geometry."
+      }
+    }
+  ]
+}

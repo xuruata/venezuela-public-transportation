@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -67.99728,
+            10.14646
+          ],
+          [
+            -68.0002,
+            10.15958
+          ],
+          [
+            -68.00452,
+            10.18773
+          ],
+          [
+            -67.99938,
+            10.15365
+          ],
+          [
+            -68.00096,
+            10.16503
+          ],
+          [
+            -68.00195,
+            10.17122
+          ],
+          [
+            -68.00288,
+            10.17721
+          ]
+        ]
+      },
+      "properties": {
+        "id": "valencia-metro:L1",
+        "system": "valencia-metro",
+        "line": "L1",
+        "short_name": "1",
+        "long_name": "Monumental ↔ Lara",
+        "color": "#E30613",
+        "status": "operational",
+        "type": "metro",
+        "alignment_note": "Approximate alignment — straight segments between station coordinates. Not the actual track geometry."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -68.00546,
+            10.19383
+          ],
+          [
+            -68.00659,
+            10.20124
+          ]
+        ]
+      },
+      "properties": {
+        "id": "valencia-metro:L2",
+        "system": "valencia-metro",
+        "line": "L2",
+        "short_name": "2",
+        "long_name": "Rafael Urdaneta ↔ Francisco de Miranda",
+        "color": "#FFCD00",
+        "status": "operational",
+        "type": "metro",
+        "alignment_note": "Approximate alignment — straight segments between station coordinates. Not the actual track geometry."
+      }
+    }
+  ]
+}

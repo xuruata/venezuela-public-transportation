@@ -1,0 +1,17 @@
+[
+  {
+    "id": "L1",
+    "short_name": "1",
+    "long_name": "Tapa-Tapa ↔ San Jacinto",
+    "color": "#0072CE",
+    "text_color": "#FFFFFF",
+    "type": "bus_rapid_transit",
+    "status": "operational",
+    "opened": "2015",
+    "stops_ordered_note": "13 stations per Wikipedia, full ordered list pending contribution.",
+    "stops_ordered": [
+      "tapa-tapa",
+      "san-jacinto"
+    ]
+  }
+]

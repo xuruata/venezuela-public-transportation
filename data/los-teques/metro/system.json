@@ -1,0 +1,23 @@
+{
+  "id": "losteques-metro",
+  "name": "Metro de Los Teques",
+  "city": "Los Teques",
+  "state": "Miranda",
+  "country": "VE",
+  "type": "metro",
+  "agency": {
+    "name": "C.A. Metro de Los Teques (operada por C.A. Metro de Caracas)",
+    "url": "http://www.metrodecaracas.com.ve/",
+    "timezone": "America/Caracas",
+    "lang": "es"
+  },
+  "opened": "2006-11-03",
+  "status": "operational",
+  "interchanges": [
+    {
+      "with_system": "caracas-metro",
+      "at_stop": "las-adjuntas"
+    }
+  ],
+  "notes": "Operated by Metro de Caracas. Line 1 runs from Las Adjuntas (interchange with Caracas Metro L2) to Ayacucho (3 operational stations). A Line 2 extension toward San Antonio de los Altos has been under construction for years and is excluded per the operational-only policy."
+}

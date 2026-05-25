@@ -1,0 +1,48 @@
+[
+  {
+    "id": "L1",
+    "short_name": "1",
+    "long_name": "Simón Bolívar ↔ Las Trinitarias",
+    "color": "#0072CE",
+    "text_color": "#FFFFFF",
+    "type": "bus_rapid_transit",
+    "status": "operational",
+    "opened": "2013-09-14",
+    "length_km": 15.55,
+    "corridor_avenues": [
+      "Florencio Jiménez",
+      "Libertador",
+      "Rómulo Gallegos",
+      "Venezuela",
+      "Argimiro Bracamonte"
+    ],
+    "stops_ordered": [
+      "central-simon-bolivar",
+      "polo",
+      "barquisimeto",
+      "cementerio",
+      "la-salle",
+      "centro",
+      "comercial-puerta-del-este",
+      "metropolis",
+      "ucla",
+      "sambil",
+      "las-trinitarias"
+    ],
+    "stops_ordered_note": "Selected major stops from Wikipedia descriptions; the full corridor has ~27 stops (21 in exclusive bus lanes + 6 in shared traffic). Contributions welcome to fill out the complete ordered list."
+  },
+  {
+    "id": "L2",
+    "short_name": "2",
+    "long_name": "Simón Bolívar ↔ Rectorado UCLA",
+    "color": "#E30613",
+    "text_color": "#FFFFFF",
+    "type": "bus_rapid_transit",
+    "status": "operational",
+    "stops_ordered": [
+      "central-simon-bolivar",
+      "ucla-rectorado"
+    ],
+    "stops_ordered_note": "20 named stations + 7 stops per source; full list pending."
+  }
+]

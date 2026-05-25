@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ali-primera",
+    "name": "Alí Primera",
+    "lat": 10.35222222,
+    "lon": -67.03888889,
+    "lines": [
+      "L1"
+    ],
+    "wikidata": "Q16485640",
+    "status": "operational"
+  },
+  {
+    "id": "ayacucho",
+    "name": "Ayacucho",
+    "lat": 10.362333333,
+    "lon": -67.028652777,
+    "lines": [
+      "L1"
+    ],
+    "wikidata": "Q20994757",
+    "status": "operational"
+  },
+  {
+    "id": "las-adjuntas",
+    "name": "Las Adjuntas",
+    "lat": 10.4255577,
+    "lon": -67.0129172,
+    "lines": [
+      "L1"
+    ],
+    "wikidata": "Q6492035",
+    "status": "operational"
+  }
+]

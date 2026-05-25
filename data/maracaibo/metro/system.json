@@ -1,0 +1,20 @@
+{
+  "id": "maracaibo-metro",
+  "name": "Metro de Maracaibo",
+  "alt_names": [
+    "Metro del Sol Amado"
+  ],
+  "city": "Maracaibo",
+  "state": "Zulia",
+  "country": "VE",
+  "type": "light_rail",
+  "agency": {
+    "name": "C.A. Metro de Maracaibo",
+    "url": "https://metrodemaracaibo.gob.ve/",
+    "timezone": "America/Caracas",
+    "lang": "es"
+  },
+  "opened": "2009-06-08",
+  "status": "operational",
+  "notes": "Single line, partially underground and partially elevated. Originally inaugurated in 2006 but commercial service began 2009. A Phase 2 extension (Padilla, Falcón, 5 de Julio) has been under construction for years and is excluded per the operational-only policy."
+}

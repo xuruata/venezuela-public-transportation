@@ -1,0 +1,19 @@
+[
+  {
+    "id": "L1",
+    "short_name": "1",
+    "long_name": "Altos de La Vanega ↔ Libertador",
+    "color": "#E30613",
+    "text_color": "#FFFFFF",
+    "type": "light_rail",
+    "status": "operational",
+    "stops_ordered": [
+      "altos-de-la-vanega",
+      "el-varillal",
+      "el-guayabal",
+      "sabaneta",
+      "urdaneta",
+      "libertador"
+    ]
+  }
+]

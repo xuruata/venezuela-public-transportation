@@ -1,0 +1,102 @@
+[
+  {
+    "id": "monumental",
+    "name": "Monumental",
+    "lat": 10.14646,
+    "lon": -67.99728,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational",
+    "notes": "Southern terminus, near Plaza de Toros Monumental de Valencia. Opened 2006-11-18."
+  },
+  {
+    "id": "palotal",
+    "name": "Palotal",
+    "lat": 10.15958,
+    "lon": -68.0002,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational",
+    "opened": "2006-11-18"
+  },
+  {
+    "id": "cedeno",
+    "name": "Cedeño",
+    "lat": 10.18773,
+    "lon": -68.00452,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational",
+    "opened": "2006-11-18"
+  },
+  {
+    "id": "las-ferias",
+    "name": "Las Ferias",
+    "lat": 10.15365,
+    "lon": -67.99938,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational",
+    "opened": "2007-11-18"
+  },
+  {
+    "id": "santa-rosa",
+    "name": "Santa Rosa",
+    "lat": 10.16503,
+    "lon": -68.00096,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational",
+    "opened": "2007-11-18"
+  },
+  {
+    "id": "michelena",
+    "name": "Michelena",
+    "lat": 10.17122,
+    "lon": -68.00195,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational",
+    "opened": "2007-11-18"
+  },
+  {
+    "id": "lara",
+    "name": "Lara",
+    "lat": 10.17721,
+    "lon": -68.00288,
+    "lines": [
+      "L1"
+    ],
+    "status": "operational",
+    "opened": "2007-11-18",
+    "notes": "Northern terminus of Line 1."
+  },
+  {
+    "id": "rafael-urdaneta",
+    "name": "Rafael Urdaneta",
+    "lat": 10.19383,
+    "lon": -68.00546,
+    "lines": [
+      "L2"
+    ],
+    "status": "operational",
+    "opened": "2015-04-29"
+  },
+  {
+    "id": "francisco-de-miranda",
+    "name": "Francisco de Miranda",
+    "lat": 10.20124,
+    "lon": -68.00659,
+    "lines": [
+      "L2"
+    ],
+    "status": "operational",
+    "opened": "2015-04-29"
+  }
+]
