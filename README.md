@@ -68,7 +68,7 @@ formats.
 **GeoJSON** in `exports/geojson/` is suitable for Leaflet, Mapbox, QGIS, etc.
 Stops are Point features; lines are LineString features drawn by connecting
 each line's stops in order (so they're approximate — straight segments, not
-real track geometry).
+real track geometry; tracked in [#1](https://github.com/xuruata/venezuela-public-transportation/issues/1)).
 
 **GTFS** in `exports/gtfs/` follows the [General Transit Feed Specification][gtfs]
 and can be consumed by any GTFS-aware tool (Google Maps' Transit Land import,

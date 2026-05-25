@@ -69,7 +69,8 @@ regenerar los formatos derivados.
 El **GeoJSON** en `exports/geojson/` sirve para Leaflet, Mapbox, QGIS, etc. Las
 paradas son features de tipo Point; las líneas son features de tipo LineString
 trazadas conectando las paradas de cada línea en orden (así que son
-aproximadas — segmentos rectos, no la geometría real de la vía).
+aproximadas — segmentos rectos, no la geometría real de la vía;
+seguimiento en [#1](https://github.com/xuruata/venezuela-public-transportation/issues/1)).
 
 El **GTFS** en `exports/gtfs/` sigue la [General Transit Feed Specification][gtfs]
 y se puede consumir con cualquier herramienta compatible con GTFS (importación
