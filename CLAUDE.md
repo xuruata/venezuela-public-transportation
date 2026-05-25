@@ -176,6 +176,24 @@ schedules unless an authoritative source confirms them. Per-line overrides
 are supported via an optional `headway_secs` field in `lines.json` — set it
 only when you have a source; the mode default applies otherwise.
 
+## Cutting a release
+
+CalVer snapshots are cut with `scripts/release.py`:
+
+```bash
+python3 scripts/release.py             # interactive: pre-flight + $EDITOR notes + gh release create
+python3 scripts/release.py --dry-run   # show the plan without creating anything
+python3 scripts/release.py --tag v2026.05.25.1   # override the auto-computed tag
+```
+
+The script enforces: working tree clean, in sync with origin/main, verify
+passes, no export drift. It auto-computes today's CalVer (appending `.N`
+for same-day re-cuts), pre-fills release notes with current stats and the
+commit list since the previous tag, and opens them in `$EDITOR`. Creating
+the release triggers `.github/workflows/build.yml` on the `release:
+published` event, which attaches every GeoJSON + GTFS export as a release
+asset.
+
 ## Cross-checking before committing
 
 ```bash
