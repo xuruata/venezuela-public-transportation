@@ -168,8 +168,11 @@ def build_gtfs(system, lines, stops) -> bytes:
         if len(seq) < 2:
             continue
 
-        # Build a single trip in each direction for the route.
-        headway = DEFAULT_HEADWAY.get(ln.get("type", system["type"]), 600)
+        # Build a single trip in each direction for the route. A per-line
+        # `headway_secs` field in lines.json wins over the mode default — use
+        # it only when an authoritative source confirms (see CLAUDE.md).
+        headway = ln.get("headway_secs") or DEFAULT_HEADWAY.get(
+            ln.get("type", system["type"]), 600)
         for direction, ordered in enumerate([seq, list(reversed(seq))]):
             trip_id = f"{route_id}:dir{direction}"
             headsign = stops[ordered[-1]]["name"] if ordered[-1] in stops else ordered[-1]

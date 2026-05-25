@@ -172,9 +172,9 @@ interpolated coords were off by up to 4.7 km.
 The GTFS feeds use synthetic `frequencies.txt` schedules — every N minutes,
 05:00–23:00 weekdays, where N depends on the mode (see
 `DEFAULT_HEADWAY` in `scripts/build_exports.py`). **Do not** add real
-schedules unless an authoritative source confirms them. Per-line headway
-overrides could be a `lines.json` field (`headway_secs`) — not yet implemented;
-add the wiring in `build_exports.py::build_gtfs` if needed.
+schedules unless an authoritative source confirms them. Per-line overrides
+are supported via an optional `headway_secs` field in `lines.json` — set it
+only when you have a source; the mode default applies otherwise.
 
 ## Cross-checking before committing
 
