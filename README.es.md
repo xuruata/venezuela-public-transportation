@@ -12,20 +12,25 @@ cubre únicamente paradas y líneas actualmente en servicio activo de pasajeros.
 Los tramos planificados, en construcción, suspendidos y cerrados quedan
 excluidos — y se mencionan en el `sources.md` de cada sistema.
 
-| Ciudad | Pob. (est.) | Sistema | Tipo | Paradas | Coords |
-|---|---:|---|---|---:|---:|
-| Maracaibo   | 2,6 M | [Metro de Maracaibo](data/maracaibo/metro/) | metro ligero | 6 | 6/6 |
-| Caracas     | 2,2 M | [Metro de Caracas](data/caracas/metro/) | metro | 47 | 47/47 |
-| Caracas     |       | [Metrocable San Agustín](data/caracas/metrocable-sanagustin/) | teleférico urbano | 3 | 3/3 |
-| Caracas     |       | [Sistema Ferroviario (Caracas-Cúa)](data/caracas/sistema-ferroviario/) | tren de cercanías | 4 | 4/4 |
-| Caracas     |       | [Teleférico Warairarepano](data/caracas/teleferico-avila/) | teleférico | 2 | 2/2 |
-| Valencia    | 1,6 M | [Metro de Valencia](data/valencia/metro/) | metro | 9 | 9/9 |
-| Barquisimeto| 1,2 M | [Transbarca](data/barquisimeto/transbarca/) | BRT | 12* | 1/12 |
-| Maracay     | 1,0 M | [TransMaracay](data/maracay/transmaracay/) | BRT | 2* | 0/2 |
-| Los Teques  | 0,2 M | [Metro de Los Teques](data/los-teques/metro/) | metro | 3 | 3/3 |
-| Mérida      | 0,3 M | [Mukumbarí (teleférico)](data/merida/teleferico/) | teleférico | 5 | 5/5 |
+| Ciudad | Sistema | Tipo | Paradas | Coords |
+|---|---|---|---:|---:|
+| Caracas     | [Metro de Caracas](data/caracas/metro/) | metro | 47 | 47/47 |
+| Caracas     | [Metrobús de Caracas](data/caracas/metrobus/) | bus (alimentador) | 469 | 469/469 |
+| Caracas     | [Metrocable San Agustín](data/caracas/metrocable-sanagustin/) | teleférico urbano | 3 | 3/3 |
+| Caracas     | [Sistema Ferroviario (Caracas-Cúa)](data/caracas/sistema-ferroviario/) | tren de cercanías | 4 | 4/4 |
+| Caracas     | [Teleférico Warairarepano](data/caracas/teleferico-avila/) | teleférico | 2 | 2/2 |
+| Maracaibo   | [Metro de Maracaibo](data/maracaibo/metro/) | metro ligero | 6 | 6/6 |
+| Valencia    | [Metro de Valencia](data/valencia/metro/) | metro | 9 | 9/9 |
+| Barquisimeto| [Transbarca](data/barquisimeto/transbarca/) | BRT | 12* | 1/12 |
+| Maracay     | [TransMaracay](data/maracay/transmaracay/) | BRT | 2* | 0/2 |
+| Mérida      | [Mukumbarí (teleférico)](data/merida/teleferico/) | teleférico | 5 | 5/5 |
+| Los Teques  | [Metro de Los Teques](data/los-teques/metro/) | metro | 3 | 3/3 |
 
-**Total**: 10 sistemas, 93 paradas, 80 con coordenadas (86 %).
+**Total**: 11 sistemas, 562 paradas, 549 con coordenadas (98 %). El Metrobús
+de Caracas por sí solo aporta 469 — es una red de buses alimentadores con
+marca propia operada por C.A. Metro de Caracas, ubicada entre el bus urbano
+convencional y el BRT pleno (vea [su sources.md](data/caracas/metrobus/sources.md)
+para la salvedad de clasificación).
 
 *Las entradas de Barquisimeto y Maracay (BRT) están incompletas — solo incluyen
 los terminales y las paradas con nombre principal. Wikipedia describe ~52 y ~13
@@ -89,13 +94,35 @@ flexibilizarse.
 
 | Fuente | Paradas aprox. |
 |---|---:|
+| OpenStreetMap (Overpass) | 489 |
 | Wikidata (SPARQL `wdt:P625`) | 60 |
-| OpenStreetMap (Overpass) | 20 |
 | Faltantes | 13 (todas son paradas BRT) |
+
+OSM pasó a ser la fuente dominante al incorporar el Metrobús de Caracas — sus
+469 paradas provienen íntegramente de OSM. Para los sistemas ferroviarios,
+Wikidata sigue siendo la fuente primaria.
 
 El campo `wikidata` en cada parada, cuando existe, es su QID de Wikidata — útil
 para volver a obtener actualizaciones futuras. Ver [CLAUDE.md](CLAUDE.md) para
 las reglas generales de selección de fuentes.
+
+## Publicaciones y versionado
+
+Las publicaciones etiquetadas usan [CalVer](https://calver.org/) —
+`vAAAA.MM.DD` (por ejemplo, `v2026.05.25`). Cada publicación describe una
+instantánea del transporte venezolano en esa fecha, lo cual es más
+significativo que un número semver para un dataset que sigue
+infraestructura del mundo real. Las republicaciones del mismo día reciben
+un sufijo `.N` (`v2026.05.25.1`).
+
+`main` siempre apunta a los datos más recientes. Las etiquetas fijan una
+fecha específica si un consumidor downstream necesita una referencia
+estable. La CI adjunta cada GeoJSON y GTFS a su publicación, de modo que
+los consumidores pueden bajar un archivo versionado directamente:
+
+```
+https://github.com/xuruata/venezuela-public-transportation/releases/download/vAAAA.MM.DD/caracas-metro.zip
+```
 
 ## Verificar y actualizar
 
@@ -173,7 +200,6 @@ El contenido de Wikipedia está licenciado bajo [CC BY-SA](https://creativecommo
 - [Metrocable (Caracas)](https://en.wikipedia.org/wiki/Metrocable_(Caracas)) — *Wikipedia contributors*
 - [Estación San Agustín (Metrocable de Caracas)](https://es.wikipedia.org/wiki/Estaci%C3%B3n_San_Agust%C3%ADn_(Metrocable_de_Caracas)) — *Colaboradores de Wikipedia*
 - [Sistema Ferroviario Nacional (Venezuela)](https://es.wikipedia.org/wiki/Sistema_Ferroviario_Nacional_(Venezuela)) — *Colaboradores de Wikipedia*
-- [List of cities in Venezuela by population](https://en.wikipedia.org/wiki/List_of_cities_in_Venezuela_by_population) — *Wikipedia contributors* (usado para ordenar el dataset)
 
 ### Wikidata — coordenadas e identificadores de estaciones
 El contenido de Wikidata está licenciado bajo [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
@@ -189,8 +215,9 @@ Datos cartográficos © contribuidores de OpenStreetMap, licenciados bajo
 [ODbL 1.0](https://opendatacommons.org/licenses/odbl/1-0/).
 
 - [Overpass API](https://overpass-api.de/) — usado para obtener las estaciones
-  del Metro de Valencia, las estaciones del teleférico Mukumbarí, y las pocas
-  paradas etiquetadas de Transbarca.
+  del Metro de Valencia, las estaciones del teleférico Mukumbarí, las pocas
+  paradas etiquetadas de Transbarca, y la red completa del Metrobús de Caracas
+  (35 rutas / 469 paradas, etiquetadas `network=Metrobus Caracas`).
 
 Todo el repositorio hereda los términos ODbL por estos datos de coordenadas
 provenientes de OSM. Al redistribuir, incluya la atribución
@@ -210,10 +237,11 @@ el aviso ODbL propio del conjunto de datos.
 - **Estructuras tarifarias** — las tarifas del transporte venezolano cambian
   con frecuencia debido a la inflación y no son aptas para publicación
   estática.
-- **Rutas de autobús** más allá de los sistemas BRT troncales listados arriba.
-  Las redes fragmentadas de por puesto / carrito / autobús urbano de cada
-  ciudad venezolana están fuera del alcance; eso requeriría un proyecto aparte
-  con relevamientos en el terreno.
+- **Rutas de autobús** más allá de los sistemas BRT troncales y la red
+  Metrobús de Caracas (operada por una agencia con marca propia) listados
+  arriba. Las redes fragmentadas de por puesto / carrito / autobús urbano
+  de cada ciudad venezolana están fuera del alcance; eso requeriría un
+  proyecto aparte con relevamientos en el terreno.
 - **Sistemas no operativos**, **extensiones planificadas** y **sistemas
   históricos / cerrados**. Vea la nota **Alcance: solo lo operativo** al
   principio, y [CLAUDE.md](CLAUDE.md) para la política.

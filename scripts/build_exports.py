@@ -197,15 +197,22 @@ def build_gtfs(system, lines, stops) -> bytes:
         ["weekday", 1, 1, 1, 1, 1, 1, 1, "20260101", "20300101"],
     ]
 
-    # Pack to zip
+    # Pack to zip. Use a fixed date_time on every entry so that successive
+    # builds with identical inputs produce byte-identical zip files — this
+    # is what lets CI verify "exports/ is up to date" with a simple git diff.
+    def _put(zf, fname, data):
+        info = zipfile.ZipInfo(fname, date_time=(2026, 1, 1, 0, 0, 0))
+        info.compress_type = zipfile.ZIP_DEFLATED
+        zf.writestr(info, data)
+
     buf = io.BytesIO()
-    with zipfile.ZipFile(buf, "w", zipfile.ZIP_DEFLATED) as zf:
+    with zipfile.ZipFile(buf, "w") as zf:
         for fname, rs in rows.items():
             out = io.StringIO()
             writer = csv.writer(out)
             writer.writerows(rs)
-            zf.writestr(fname, out.getvalue())
-        zf.writestr("README.txt",
+            _put(zf, fname, out.getvalue())
+        _put(zf, "README.txt",
             "Synthetic frequencies-based feed. The route topology is real, but\n"
             "the schedule is approximate (every N minutes 05:00-23:00 weekdays).\n"
             "Do not use for trip-planning. See sources.md in the upstream repo.\n")

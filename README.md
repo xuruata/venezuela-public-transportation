@@ -11,20 +11,25 @@ only stops and lines currently in active passenger service. Planned,
 under-construction, suspended, and closed segments are excluded — and called
 out in each system's `sources.md`.
 
-| City | Pop. (est.) | System | Type | Stops | Coords |
-|---|---:|---|---|---:|---:|
-| Maracaibo   | 2.6 M | [Metro de Maracaibo](data/maracaibo/metro/) | light rail | 6 | 6/6 |
-| Caracas     | 2.2 M | [Metro de Caracas](data/caracas/metro/) | metro | 47 | 47/47 |
-| Caracas     |       | [Metrocable San Agustín](data/caracas/metrocable-sanagustin/) | gondola | 3 | 3/3 |
-| Caracas     |       | [Sistema Ferroviario (Caracas-Cúa)](data/caracas/sistema-ferroviario/) | commuter rail | 4 | 4/4 |
-| Caracas     |       | [Teleférico Warairarepano](data/caracas/teleferico-avila/) | aerial tram | 2 | 2/2 |
-| Valencia    | 1.6 M | [Metro de Valencia](data/valencia/metro/) | metro | 9 | 9/9 |
-| Barquisimeto| 1.2 M | [Transbarca](data/barquisimeto/transbarca/) | BRT | 12* | 1/12 |
-| Maracay     | 1.0 M | [TransMaracay](data/maracay/transmaracay/) | BRT | 2* | 0/2 |
-| Los Teques  | 0.2 M | [Metro de Los Teques](data/los-teques/metro/) | metro | 3 | 3/3 |
-| Mérida      | 0.3 M | [Mukumbarí (cable car)](data/merida/teleferico/) | aerial tram | 5 | 5/5 |
+| City | System | Type | Stops | Coords |
+|---|---|---|---:|---:|
+| Caracas     | [Metro de Caracas](data/caracas/metro/) | metro | 47 | 47/47 |
+| Caracas     | [Metrobús de Caracas](data/caracas/metrobus/) | bus (feeder) | 469 | 469/469 |
+| Caracas     | [Metrocable San Agustín](data/caracas/metrocable-sanagustin/) | gondola | 3 | 3/3 |
+| Caracas     | [Sistema Ferroviario (Caracas-Cúa)](data/caracas/sistema-ferroviario/) | commuter rail | 4 | 4/4 |
+| Caracas     | [Teleférico Warairarepano](data/caracas/teleferico-avila/) | aerial tram | 2 | 2/2 |
+| Maracaibo   | [Metro de Maracaibo](data/maracaibo/metro/) | light rail | 6 | 6/6 |
+| Valencia    | [Metro de Valencia](data/valencia/metro/) | metro | 9 | 9/9 |
+| Barquisimeto| [Transbarca](data/barquisimeto/transbarca/) | BRT | 12* | 1/12 |
+| Maracay     | [TransMaracay](data/maracay/transmaracay/) | BRT | 2* | 0/2 |
+| Mérida      | [Mukumbarí (cable car)](data/merida/teleferico/) | aerial tram | 5 | 5/5 |
+| Los Teques  | [Metro de Los Teques](data/los-teques/metro/) | metro | 3 | 3/3 |
 
-**Total**: 10 systems, 93 stops, 80 with coordinates (86%).
+**Total**: 11 systems, 562 stops, 549 with coordinates (98%). The Caracas
+Metrobús alone accounts for 469 of those — it's a branded feeder bus network
+operated by C.A. Metro de Caracas, sitting between conventional urban bus and
+full BRT (see [its sources.md](data/caracas/metrobus/sources.md) for the
+classification caveat).
 
 *The Barquisimeto and Maracay BRT entries are incomplete — terminal hubs plus
 major named stops only. Wikipedia describes ~52 and ~13 stops respectively but
@@ -86,13 +91,33 @@ if the policy ever loosens.
 
 | Source | Approx. stops |
 |---|---:|
+| OpenStreetMap (Overpass) | 489 |
 | Wikidata (SPARQL `wdt:P625`) | 60 |
-| OpenStreetMap (Overpass) | 20 |
 | Missing | 13 (all BRT stops) |
+
+OSM became the dominant source once Caracas Metrobús was added — its 469 stops
+are entirely OSM-extracted. For rail-based systems Wikidata remains primary.
 
 The `wikidata` field on each stop, where present, is its Wikidata QID — useful
 for re-pulling future updates. See [CLAUDE.md](CLAUDE.md) for the
 source-selection rules of thumb.
+
+## Releases & versioning
+
+Tagged snapshots use [CalVer](https://calver.org/) — `vYYYY.MM.DD` (e.g.
+`v2026.05.25`). Each release describes a snapshot of Venezuelan transit on
+that date, which is more meaningful than a semantic version for a dataset
+that tracks real-world infrastructure. Same-day re-cuts get a `.N` suffix
+(`v2026.05.25.1`).
+
+`main` always tracks the latest data. Tags pin a specific date if a
+downstream consumer wants a stable reference. CI attaches every GeoJSON
+and GTFS export to its release, so consumers can pull a versioned file
+directly:
+
+```
+https://github.com/xuruata/venezuela-public-transportation/releases/download/vYYYY.MM.DD/caracas-metro.zip
+```
 
 ## Verifying and updating
 
@@ -166,7 +191,6 @@ Wikipedia content is licensed under [CC BY-SA](https://creativecommons.org/licen
 - [Metrocable (Caracas)](https://en.wikipedia.org/wiki/Metrocable_(Caracas)) — *Wikipedia contributors*
 - [Estación San Agustín (Metrocable de Caracas)](https://es.wikipedia.org/wiki/Estaci%C3%B3n_San_Agust%C3%ADn_(Metrocable_de_Caracas)) — *Colaboradores de Wikipedia*
 - [Sistema Ferroviario Nacional (Venezuela)](https://es.wikipedia.org/wiki/Sistema_Ferroviario_Nacional_(Venezuela)) — *Colaboradores de Wikipedia*
-- [List of cities in Venezuela by population](https://en.wikipedia.org/wiki/List_of_cities_in_Venezuela_by_population) — *Wikipedia contributors* (used to order the dataset)
 
 ### Wikidata — station coordinates and identifiers
 Wikidata content is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
@@ -181,7 +205,9 @@ Map data © OpenStreetMap contributors, licensed under
 [ODbL 1.0](https://opendatacommons.org/licenses/odbl/1-0/).
 
 - [Overpass API](https://overpass-api.de/) — used to pull Valencia Metro
-  stations, Mukumbarí cable car stations, and the few tagged Transbarca stops.
+  stations, Mukumbarí cable car stations, the few tagged Transbarca stops,
+  and the entire Metrobús de Caracas network (35 routes / 469 stops, tagged
+  `network=Metrobus Caracas`).
 
 The whole repository inherits ODbL terms because of this OSM-derived
 coordinate data. When redistributing, include the attribution
@@ -200,9 +226,10 @@ own ODbL notice.
 - **Real-time data** (vehicle positions, arrival predictions).
 - **Fare structures** — Venezuelan transit fares change frequently with inflation
   and are not amenable to static publication.
-- **Bus routes** beyond the trunk BRT systems above. The fragmented
-  por-puesto / carrito / autobús urbano networks in every Venezuelan city are
-  out of scope; that would require a separate project with on-the-ground surveys.
+- **Bus routes** beyond the trunk BRT systems and the branded operator-run
+  Metrobús de Caracas network above. The fragmented por-puesto / carrito /
+  autobús urbano networks in every Venezuelan city are out of scope; that
+  would require a separate project with on-the-ground surveys.
 - **Non-operational systems**, **planned extensions**, and **historical /
   closed systems**. See the **Scope: operational only** note at the top, and
   [CLAUDE.md](CLAUDE.md) for the policy.

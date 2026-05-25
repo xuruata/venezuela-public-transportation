@@ -195,9 +195,14 @@ need a copy.
 - Don't invent stop names. If a source uses two names for the same stop (e.g.
   Valencia L2 "Negra Hipólita" / "Los Sauces"), put the formal one in `name`
   and the other in `alt_names`.
-- Don't add bus routes outside the trunk BRT systems already documented. The
-  por-puesto / carrito / autobús urbano networks are explicitly out of scope —
-  they'd require on-the-ground surveys and would dilute the dataset.
+- Don't add bus routes outside the trunk BRT systems and branded
+  operator-run networks already documented (Transbarca, TransMaracay, and
+  the Caracas Metrobús — the latter is a feeder network with numbered
+  routes, signed stops, and a single agency, so it shares the same data
+  shape as a BRT even though it lacks dedicated lanes). The fragmented
+  por-puesto / carrito / autobús urbano networks are explicitly out of
+  scope — they'd require on-the-ground surveys and would dilute the
+  dataset.
 - Don't edit `exports/` directly. Regenerate.
 - Don't strip the `wikidata` field from existing stops — it's the key to
   re-pulling future coordinate updates.

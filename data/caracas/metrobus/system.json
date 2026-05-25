@@ -1,0 +1,17 @@
+{
+  "id": "caracas-metrobus",
+  "name": "Metrobús de Caracas",
+  "city": "Caracas",
+  "state": "Distrito Capital",
+  "country": "VE",
+  "type": "bus",
+  "agency": {
+    "name": "C.A. Metro de Caracas",
+    "url": null,
+    "timezone": "America/Caracas",
+    "lang": "es"
+  },
+  "opened": "1987",
+  "status": "operational",
+  "notes": "Branded feeder bus network operated by C.A. Metro de Caracas alongside the underground Metro and the Metrocable. Fixed numbered routes use signed stops with route information and are operated with agency-branded vehicles. The system lacks dedicated bus lanes across most of its network, so it sits between conventional urban bus and full BRT on the BRT Standard — closer to NYC's MTA local bus than to Bogotá's TransMilenio. Included in this dataset because the routes and stops are formally enumerated by the operator and well-mapped in OpenStreetMap. The 'P-' prefixed routes are 'Rutas Preferenciales' (premium express services)."
+}

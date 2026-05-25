@@ -1,0 +1,5224 @@
+[
+  {
+    "id": "13-de-julio",
+    "name": "13 de Julio",
+    "lat": 10.5145882,
+    "lon": -66.9278631,
+    "lines": [
+      "541",
+      "542"
+    ],
+    "status": "operational",
+    "osm_node": 9212002308
+  },
+  {
+    "id": "21-de-julio",
+    "name": "21 de Julio",
+    "lat": 10.4876905,
+    "lon": -66.921072,
+    "lines": [
+      "606"
+    ],
+    "status": "operational",
+    "osm_node": 9210220510
+  },
+  {
+    "id": "21-de-julio-2",
+    "name": "21 de Julio",
+    "lat": 10.487885,
+    "lon": -66.9210884,
+    "lines": [
+      "606"
+    ],
+    "status": "operational",
+    "osm_node": 4186809469
+  },
+  {
+    "id": "5-transversal",
+    "name": "5.° Transversal",
+    "lat": 10.499988,
+    "lon": -66.8335949,
+    "lines": [
+      "111"
+    ],
+    "status": "operational",
+    "osm_node": 9197335265
+  },
+  {
+    "id": "7a-avenida",
+    "name": "7a Avenida",
+    "lat": 10.5050779,
+    "lon": -66.9481314,
+    "lines": [
+      "605"
+    ],
+    "status": "operational",
+    "osm_node": 9210433742
+  },
+  {
+    "id": "acacias",
+    "name": "Acacias",
+    "lat": 10.4903681,
+    "lon": -66.8802802,
+    "lines": [
+      "315"
+    ],
+    "status": "operational",
+    "osm_node": 9207768255
+  },
+  {
+    "id": "alejandria",
+    "name": "Alejandría",
+    "lat": 10.4871399,
+    "lon": -66.8724004,
+    "lines": [
+      "315",
+      "P-681"
+    ],
+    "status": "operational",
+    "osm_node": 9207768258
+  },
+  {
+    "id": "alma-llanera",
+    "name": "Alma Llanera",
+    "lat": 10.50213,
+    "lon": -66.9540122,
+    "lines": [
+      "501"
+    ],
+    "status": "operational",
+    "osm_node": 9159466691
+  },
+  {
+    "id": "alma-mater",
+    "name": "Alma Mater",
+    "lat": 10.4804926,
+    "lon": -66.8889228,
+    "lines": [
+      "921"
+    ],
+    "status": "operational",
+    "osm_node": 9212178848
+  },
+  {
+    "id": "alta-florida",
+    "name": "Alta Florida",
+    "lat": 10.5075763,
+    "lon": -66.8723687,
+    "lines": [
+      "302"
+    ],
+    "status": "operational",
+    "osm_node": 9207617580
+  },
+  {
+    "id": "alta-vista",
+    "name": "Alta Vista",
+    "lat": 10.5226068,
+    "lon": -66.9417299,
+    "lines": [
+      "533"
+    ],
+    "status": "operational",
+    "osm_node": 9214205981
+  },
+  {
+    "id": "altamira",
+    "name": "Altamira",
+    "lat": 10.4954426,
+    "lon": -66.8488516,
+    "lines": [
+      "201",
+      "202",
+      "203"
+    ],
+    "status": "operational",
+    "osm_node": 9199392197
+  },
+  {
+    "id": "amanda-schnell",
+    "name": "Amanda Schnell",
+    "lat": 10.4695906,
+    "lon": -66.9464651,
+    "lines": [
+      "607"
+    ],
+    "status": "operational",
+    "osm_node": 9210122046
+  },
+  {
+    "id": "amazonas",
+    "name": "Amazonas",
+    "lat": 10.4830344,
+    "lon": -66.847899,
+    "lines": [
+      "201"
+    ],
+    "status": "operational",
+    "osm_node": 9199392194
+  },
+  {
+    "id": "ambulatorio",
+    "name": "Ambulatorio",
+    "lat": 10.4811987,
+    "lon": -66.970729,
+    "lines": [
+      "P-771"
+    ],
+    "status": "operational",
+    "osm_node": 1968407836
+  },
+  {
+    "id": "america",
+    "name": "América",
+    "lat": 10.4467453,
+    "lon": -66.8735016,
+    "lines": [
+      "222"
+    ],
+    "status": "operational",
+    "osm_node": 9206600536
+  },
+  {
+    "id": "america-2",
+    "name": "América",
+    "lat": 10.4468685,
+    "lon": -66.8733019,
+    "lines": [
+      "222"
+    ],
+    "status": "operational",
+    "osm_node": 1738388511
+  },
+  {
+    "id": "andres-bello",
+    "name": "Andrés Bello",
+    "lat": 10.5045996,
+    "lon": -66.8946214,
+    "lines": [
+      "316"
+    ],
+    "status": "operational",
+    "osm_node": 9207916863
+  },
+  {
+    "id": "aranda",
+    "name": "Aranda",
+    "lat": 10.4809955,
+    "lon": -66.8897291,
+    "lines": [
+      "921"
+    ],
+    "status": "operational",
+    "osm_node": 7376312897
+  },
+  {
+    "id": "aries",
+    "name": "Aries",
+    "lat": 10.4643803,
+    "lon": -66.8430746,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197413557
+  },
+  {
+    "id": "aristides-rojas",
+    "name": "Arístides Rojas",
+    "lat": 10.5045274,
+    "lon": -66.8865008,
+    "lines": [
+      "316"
+    ],
+    "status": "operational",
+    "osm_node": 9207916874
+  },
+  {
+    "id": "atlantico",
+    "name": "Atlántico",
+    "lat": 10.499158,
+    "lon": -66.9457765,
+    "lines": [
+      "605"
+    ],
+    "status": "operational",
+    "osm_node": 9210433743
+  },
+  {
+    "id": "avenida-central",
+    "name": "Avenida Central",
+    "lat": 10.4805569,
+    "lon": -66.7970177,
+    "lines": [
+      "021"
+    ],
+    "status": "operational",
+    "osm_node": 3633665898
+  },
+  {
+    "id": "avenida-principal",
+    "name": "Avenida Principal",
+    "lat": 10.4799847,
+    "lon": -66.7906154,
+    "lines": [
+      "021"
+    ],
+    "status": "operational",
+    "osm_node": 3633737464
+  },
+  {
+    "id": "avenida-principal-2",
+    "name": "Avenida Principal",
+    "lat": 10.4794906,
+    "lon": -66.7911413,
+    "lines": [
+      "021"
+    ],
+    "status": "operational",
+    "osm_node": 9197343266
+  },
+  {
+    "id": "avila",
+    "name": "Ávila",
+    "lat": 10.495798,
+    "lon": -66.821674,
+    "lines": [
+      "122"
+    ],
+    "status": "operational",
+    "osm_node": 9197590614
+  },
+  {
+    "id": "avila-2",
+    "name": "Ávila",
+    "lat": 10.5151329,
+    "lon": -66.8983506,
+    "lines": [
+      "421"
+    ],
+    "status": "operational",
+    "osm_node": 9208098976
+  },
+  {
+    "id": "avila-i",
+    "name": "Ávila I",
+    "lat": 10.5016204,
+    "lon": -66.8734953,
+    "lines": [
+      "302"
+    ],
+    "status": "operational",
+    "osm_node": 9207617583
+  },
+  {
+    "id": "avila-ii",
+    "name": "Ávila II",
+    "lat": 10.5016012,
+    "lon": -66.8731061,
+    "lines": [
+      "302"
+    ],
+    "status": "operational",
+    "osm_node": 9207617582
+  },
+  {
+    "id": "bachiche",
+    "name": "Bachiche",
+    "lat": 10.5177647,
+    "lon": -66.9299527,
+    "lines": [
+      "541",
+      "542"
+    ],
+    "status": "operational",
+    "osm_node": 9212002297
+  },
+  {
+    "id": "barrio-obrero",
+    "name": "Barrio Obrero",
+    "lat": 10.5214472,
+    "lon": -66.9299627,
+    "lines": [
+      "542"
+    ],
+    "status": "operational",
+    "osm_node": 9212002301
+  },
+  {
+    "id": "baruta",
+    "name": "Baruta",
+    "lat": 10.4342048,
+    "lon": -66.8737185,
+    "lines": [
+      "222"
+    ],
+    "status": "operational",
+    "osm_node": 4275823708
+  },
+  {
+    "id": "beethoven",
+    "name": "Beethoven",
+    "lat": 10.4875606,
+    "lon": -66.8757552,
+    "lines": [
+      "315"
+    ],
+    "status": "operational",
+    "osm_node": 6678033138
+  },
+  {
+    "id": "bella-vista",
+    "name": "Bella Vista",
+    "lat": 10.4854167,
+    "lon": -66.9498022,
+    "lines": [
+      "606",
+      "607"
+    ],
+    "status": "operational",
+    "osm_node": 9208148766
+  },
+  {
+    "id": "bellas-artes",
+    "name": "Bellas Artes",
+    "lat": 10.5011893,
+    "lon": -66.9002901,
+    "lines": [
+      "421"
+    ],
+    "status": "operational",
+    "osm_node": 3258817371
+  },
+  {
+    "id": "bellas-artes-norte",
+    "name": "Bellas Artes Norte",
+    "lat": 10.5025744,
+    "lon": -66.9007247,
+    "lines": [
+      "421"
+    ],
+    "status": "operational",
+    "osm_node": 9208098970
+  },
+  {
+    "id": "bello-monte",
+    "name": "Bello Monte",
+    "lat": 10.4873635,
+    "lon": -66.870296,
+    "lines": [
+      "315",
+      "P-681"
+    ],
+    "status": "operational",
+    "osm_node": 9207768259
+  },
+  {
+    "id": "biblioteca",
+    "name": "Biblioteca",
+    "lat": 10.4368714,
+    "lon": -66.992128,
+    "lines": [
+      "712"
+    ],
+    "status": "operational",
+    "osm_node": 6695588567
+  },
+  {
+    "id": "blanco-fombona",
+    "name": "Blanco Fombona",
+    "lat": 10.4756726,
+    "lon": -66.8891396,
+    "lines": [
+      "921"
+    ],
+    "status": "operational",
+    "osm_node": 9212147501
+  },
+  {
+    "id": "bloque-1",
+    "name": "Bloque 1",
+    "lat": 10.5119751,
+    "lon": -66.8916902,
+    "lines": [
+      "316"
+    ],
+    "status": "operational",
+    "osm_node": 9207916868
+  },
+  {
+    "id": "bloque-1-2",
+    "name": "Bloque 1",
+    "lat": 10.5983871,
+    "lon": -66.9743866,
+    "lines": [
+      "603"
+    ],
+    "status": "operational",
+    "osm_node": 9209689262
+  },
+  {
+    "id": "bloque-1-3",
+    "name": "Bloque 1",
+    "lat": 10.5030949,
+    "lon": -66.947305,
+    "lines": [
+      "605"
+    ],
+    "status": "operational",
+    "osm_node": 9210433741
+  },
+  {
+    "id": "bloque-11",
+    "name": "Bloque 11",
+    "lat": 10.5132788,
+    "lon": -66.8914294,
+    "lines": [
+      "316"
+    ],
+    "status": "operational",
+    "osm_node": 6717723662
+  },
+  {
+    "id": "bloque-12",
+    "name": "Bloque 12",
+    "lat": 10.4357472,
+    "lon": -66.9544489,
+    "lines": [
+      "731"
+    ],
+    "status": "operational",
+    "osm_node": 9212082361
+  },
+  {
+    "id": "bloque-15",
+    "name": "Bloque 15",
+    "lat": 10.4347664,
+    "lon": -66.956511,
+    "lines": [
+      "731"
+    ],
+    "status": "operational",
+    "osm_node": 2385689162
+  },
+  {
+    "id": "bloque-18",
+    "name": "Bloque 18",
+    "lat": 10.4331978,
+    "lon": -66.9592966,
+    "lines": [
+      "731"
+    ],
+    "status": "operational",
+    "osm_node": 9212082360
+  },
+  {
+    "id": "bloque-26",
+    "name": "Bloque 26",
+    "lat": 10.4303348,
+    "lon": -66.9621356,
+    "lines": [
+      "731"
+    ],
+    "status": "operational",
+    "osm_node": 2385689115
+  },
+  {
+    "id": "bloque-3",
+    "name": "Bloque 3",
+    "lat": 10.4328495,
+    "lon": -66.9641418,
+    "lines": [
+      "731"
+    ],
+    "status": "operational",
+    "osm_node": 2888287828
+  },
+  {
+    "id": "bloque-3-2",
+    "name": "Bloque 3",
+    "lat": 10.432909,
+    "lon": -66.9645974,
+    "lines": [
+      "731"
+    ],
+    "status": "operational",
+    "osm_node": 9212082365
+  },
+  {
+    "id": "bloque-34",
+    "name": "Bloque 34",
+    "lat": 10.4316717,
+    "lon": -66.9644447,
+    "lines": [
+      "731"
+    ],
+    "status": "operational",
+    "osm_node": 2385689251
+  },
+  {
+    "id": "bloque-37",
+    "name": "Bloque 37",
+    "lat": 10.5058501,
+    "lon": -66.9392527,
+    "lines": [
+      "605"
+    ],
+    "status": "operational",
+    "osm_node": 9210455690
+  },
+  {
+    "id": "bloque-39",
+    "name": "Bloque 39",
+    "lat": 10.5070451,
+    "lon": -66.9409268,
+    "lines": [
+      "605"
+    ],
+    "status": "operational",
+    "osm_node": 9210433737
+  },
+  {
+    "id": "bloque-4",
+    "name": "Bloque 4",
+    "lat": 10.5993855,
+    "lon": -66.9709591,
+    "lines": [
+      "603"
+    ],
+    "status": "operational",
+    "osm_node": 9209689261
+  },
+  {
+    "id": "bloque-41",
+    "name": "Bloque 41",
+    "lat": 10.5083961,
+    "lon": -66.9424392,
+    "lines": [
+      "605"
+    ],
+    "status": "operational",
+    "osm_node": 9210433738
+  },
+  {
+    "id": "bloque-43",
+    "name": "Bloque 43",
+    "lat": 10.5058434,
+    "lon": -66.9461526,
+    "lines": [
+      "605"
+    ],
+    "status": "operational",
+    "osm_node": 9210433740
+  },
+  {
+    "id": "bloque-52",
+    "name": "Bloque 52",
+    "lat": 10.505938,
+    "lon": -66.9354614,
+    "lines": [
+      "605"
+    ],
+    "status": "operational",
+    "osm_node": 9210455688
+  },
+  {
+    "id": "bloque-56",
+    "name": "Bloque 56",
+    "lat": 10.5067944,
+    "lon": -66.9367089,
+    "lines": [
+      "605"
+    ],
+    "status": "operational",
+    "osm_node": 9210455689
+  },
+  {
+    "id": "bloque-6",
+    "name": "Bloque 6",
+    "lat": 10.4345785,
+    "lon": -66.9596867,
+    "lines": [
+      "731"
+    ],
+    "status": "operational",
+    "osm_node": 9212082363
+  },
+  {
+    "id": "bloque-7",
+    "name": "Bloque 7",
+    "lat": 10.5065107,
+    "lon": -66.930145,
+    "lines": [
+      "605"
+    ],
+    "status": "operational",
+    "osm_node": 9210455686
+  },
+  {
+    "id": "bloque-8",
+    "name": "Bloque 8",
+    "lat": 10.436446,
+    "lon": -66.9567681,
+    "lines": [
+      "731"
+    ],
+    "status": "operational",
+    "osm_node": 9212082362
+  },
+  {
+    "id": "bloque-9",
+    "name": "Bloque 9",
+    "lat": 10.5111198,
+    "lon": -66.9276549,
+    "lines": [
+      "605"
+    ],
+    "status": "operational",
+    "osm_node": 7332825178
+  },
+  {
+    "id": "boleita-sur",
+    "name": "Boleíta Sur",
+    "lat": 10.4905895,
+    "lon": -66.8224013,
+    "lines": [
+      "122"
+    ],
+    "status": "operational",
+    "osm_node": 9197590616
+  },
+  {
+    "id": "boleita-sur-2",
+    "name": "Boleíta Sur",
+    "lat": 10.4908514,
+    "lon": -66.8235665,
+    "lines": [
+      "122"
+    ],
+    "status": "operational",
+    "osm_node": 9197590611
+  },
+  {
+    "id": "bolet-peraza",
+    "name": "Bolet Peraza",
+    "lat": 10.4739811,
+    "lon": -66.8907778,
+    "lines": [
+      "921"
+    ],
+    "status": "operational",
+    "osm_node": 9212147502
+  },
+  {
+    "id": "boulevard",
+    "name": "Boulevard",
+    "lat": 10.4720295,
+    "lon": -66.8384483,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 6641814800
+  },
+  {
+    "id": "boyaca",
+    "name": "Boyacá",
+    "lat": 10.5075951,
+    "lon": -66.8320576,
+    "lines": [
+      "111"
+    ],
+    "status": "operational",
+    "osm_node": 9197335268
+  },
+  {
+    "id": "buen-ciudadano",
+    "name": "Buen Ciudadano",
+    "lat": 10.508802,
+    "lon": -66.8842255,
+    "lines": [
+      "314"
+    ],
+    "status": "operational",
+    "osm_node": 2417288010
+  },
+  {
+    "id": "cacique",
+    "name": "Cacique",
+    "lat": 10.4314209,
+    "lon": -66.9412065,
+    "lines": [
+      "801"
+    ],
+    "status": "operational",
+    "osm_node": 9212139032
+  },
+  {
+    "id": "calle-10",
+    "name": "Calle 10",
+    "lat": 10.4903583,
+    "lon": -66.8070208,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 9197279184
+  },
+  {
+    "id": "calle-10-2",
+    "name": "Calle 10",
+    "lat": 10.48044,
+    "lon": -66.7930999,
+    "lines": [
+      "021"
+    ],
+    "status": "operational",
+    "osm_node": 3633737465
+  },
+  {
+    "id": "calle-10-3",
+    "name": "Calle 10",
+    "lat": 10.4807542,
+    "lon": -66.7929628,
+    "lines": [
+      "021"
+    ],
+    "status": "operational",
+    "osm_node": 4152296711
+  },
+  {
+    "id": "calle-10-4",
+    "name": "Calle 10",
+    "lat": 10.5027187,
+    "lon": -66.9600158,
+    "lines": [
+      "501"
+    ],
+    "status": "operational",
+    "osm_node": 9210235495
+  },
+  {
+    "id": "calle-12",
+    "name": "Calle 12",
+    "lat": 10.4887083,
+    "lon": -66.8100514,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 9197279178
+  },
+  {
+    "id": "calle-12-2",
+    "name": "Calle 12",
+    "lat": 10.4793131,
+    "lon": -66.7923989,
+    "lines": [
+      "021"
+    ],
+    "status": "operational",
+    "osm_node": 3633737466
+  },
+  {
+    "id": "calle-12-3",
+    "name": "Calle 12",
+    "lat": 10.4794535,
+    "lon": -66.7926181,
+    "lines": [
+      "021"
+    ],
+    "status": "operational",
+    "osm_node": 9197343267
+  },
+  {
+    "id": "calle-13",
+    "name": "Calle 13",
+    "lat": 10.4840463,
+    "lon": -66.8087953,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 9197279182
+  },
+  {
+    "id": "calle-14",
+    "name": "Calle 14",
+    "lat": 10.4836817,
+    "lon": -66.8096691,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 8538671992
+  },
+  {
+    "id": "calle-14-norte",
+    "name": "Calle 14 Norte",
+    "lat": 10.4872685,
+    "lon": -66.8097527,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 9197279179
+  },
+  {
+    "id": "calle-15",
+    "name": "Calle 15",
+    "lat": 10.4854894,
+    "lon": -66.8105392,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 9197279180
+  },
+  {
+    "id": "calle-15-2",
+    "name": "Calle 15",
+    "lat": 10.4824148,
+    "lon": -66.7895761,
+    "lines": [
+      "021"
+    ],
+    "status": "operational",
+    "osm_node": 3633738719
+  },
+  {
+    "id": "calle-16",
+    "name": "Calle 16",
+    "lat": 10.4809902,
+    "lon": -66.7896617,
+    "lines": [
+      "021"
+    ],
+    "status": "operational",
+    "osm_node": 1304683842
+  },
+  {
+    "id": "calle-2",
+    "name": "Calle 2",
+    "lat": 10.4775485,
+    "lon": -66.9695751,
+    "lines": [
+      "P-771"
+    ],
+    "status": "operational",
+    "osm_node": 9210137844
+  },
+  {
+    "id": "calle-2-2",
+    "name": "Calle 2",
+    "lat": 10.4778438,
+    "lon": -66.9698445,
+    "lines": [
+      "P-771"
+    ],
+    "status": "operational",
+    "osm_node": 9210137843
+  },
+  {
+    "id": "calle-4",
+    "name": "Calle 4",
+    "lat": 10.4857682,
+    "lon": -66.8078176,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 9197279183
+  },
+  {
+    "id": "calle-4-2",
+    "name": "Calle 4",
+    "lat": 10.4890251,
+    "lon": -66.8073338,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 9197279176
+  },
+  {
+    "id": "calle-7",
+    "name": "Calle 7",
+    "lat": 10.4925176,
+    "lon": -66.8055425,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 8555164696
+  },
+  {
+    "id": "calle-7-2",
+    "name": "Calle 7",
+    "lat": 10.4726786,
+    "lon": -66.9630429,
+    "lines": [
+      "601"
+    ],
+    "status": "operational",
+    "osm_node": 9208148760
+  },
+  {
+    "id": "calle-garcia",
+    "name": "Calle García",
+    "lat": 10.4999711,
+    "lon": -66.8750937,
+    "lines": [
+      "302"
+    ],
+    "status": "operational",
+    "osm_node": 9207617576
+  },
+  {
+    "id": "calle-norte",
+    "name": "Calle Norte",
+    "lat": 10.4813944,
+    "lon": -66.7953302,
+    "lines": [
+      "021"
+    ],
+    "status": "operational",
+    "osm_node": 3633668693
+  },
+  {
+    "id": "calle-norte-2",
+    "name": "Calle Norte",
+    "lat": 10.50462,
+    "lon": -66.8881317,
+    "lines": [
+      "316"
+    ],
+    "status": "operational",
+    "osm_node": 9207916861
+  },
+  {
+    "id": "calle-real",
+    "name": "Calle Real",
+    "lat": 10.5195637,
+    "lon": -66.9259683,
+    "lines": [
+      "542"
+    ],
+    "status": "operational",
+    "osm_node": 9212002305
+  },
+  {
+    "id": "canagua",
+    "name": "Canagua",
+    "lat": 10.4327662,
+    "lon": -66.9765849,
+    "lines": [
+      "731"
+    ],
+    "status": "operational",
+    "osm_node": 9212066319
+  },
+  {
+    "id": "cania",
+    "name": "Cania",
+    "lat": 10.4741913,
+    "lon": -66.9670452,
+    "lines": [
+      "P-771"
+    ],
+    "status": "operational",
+    "osm_node": 9210137845
+  },
+  {
+    "id": "cardiologico",
+    "name": "Cardiológico",
+    "lat": 10.4679197,
+    "lon": -66.9712002,
+    "lines": [
+      "601"
+    ],
+    "status": "operational",
+    "osm_node": 9208148756
+  },
+  {
+    "id": "caroni",
+    "name": "Caroní",
+    "lat": 10.4825178,
+    "lon": -66.8562314,
+    "lines": [
+      "221",
+      "P-681"
+    ],
+    "status": "operational",
+    "osm_node": 9206571095
+  },
+  {
+    "id": "casa-del-obrero",
+    "name": "Casa del Obrero",
+    "lat": 10.5047535,
+    "lon": -66.959542,
+    "lines": [
+      "501"
+    ],
+    "status": "operational",
+    "osm_node": 9210235496
+  },
+  {
+    "id": "caura-i",
+    "name": "Caura I",
+    "lat": 10.4842666,
+    "lon": -66.8769472,
+    "lines": [
+      "315"
+    ],
+    "status": "operational",
+    "osm_node": 9207768266
+  },
+  {
+    "id": "caura-ii",
+    "name": "Caura II",
+    "lat": 10.4834349,
+    "lon": -66.8767396,
+    "lines": [
+      "315"
+    ],
+    "status": "operational",
+    "osm_node": 9207768263
+  },
+  {
+    "id": "caurimare",
+    "name": "Caurimare",
+    "lat": 10.4719463,
+    "lon": -66.8387306,
+    "lines": [
+      "201"
+    ],
+    "status": "operational",
+    "osm_node": 2800301506
+  },
+  {
+    "id": "caurimare-2",
+    "name": "Caurimare",
+    "lat": 10.4730381,
+    "lon": -66.8388433,
+    "lines": [
+      "201"
+    ],
+    "status": "operational",
+    "osm_node": 2800295938
+  },
+  {
+    "id": "caurimare-3",
+    "name": "Caurimare",
+    "lat": 10.4853618,
+    "lon": -66.8759112,
+    "lines": [
+      "315"
+    ],
+    "status": "operational",
+    "osm_node": 9207768267
+  },
+  {
+    "id": "caurimare-i",
+    "name": "Caurimare I",
+    "lat": 10.4767218,
+    "lon": -66.8362943,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197413563
+  },
+  {
+    "id": "caurimare-i-2",
+    "name": "Caurimare I",
+    "lat": 10.4765843,
+    "lon": -66.8360567,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 6641478082
+  },
+  {
+    "id": "caurimare-ii",
+    "name": "Caurimare II",
+    "lat": 10.4757401,
+    "lon": -66.8375878,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197413562
+  },
+  {
+    "id": "caurimare-ii-2",
+    "name": "Caurimare II",
+    "lat": 10.475653,
+    "lon": -66.8374468,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197413548
+  },
+  {
+    "id": "caurimare-iii",
+    "name": "Caurimare III",
+    "lat": 10.4736176,
+    "lon": -66.8378256,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 6641859740
+  },
+  {
+    "id": "caurimare-iii-2",
+    "name": "Caurimare III",
+    "lat": 10.4738428,
+    "lon": -66.8376569,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 6641859761
+  },
+  {
+    "id": "centro-comercial",
+    "name": "Centro Comercial",
+    "lat": 10.4602027,
+    "lon": -66.8331452,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197413559
+  },
+  {
+    "id": "centro-comercial-2",
+    "name": "Centro Comercial",
+    "lat": 10.4601077,
+    "lon": -66.8336462,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197413554
+  },
+  {
+    "id": "centro-comercial-propatria",
+    "name": "Centro Comercial Propatria",
+    "lat": 10.5038866,
+    "lon": -66.9542488,
+    "lines": [
+      "501"
+    ],
+    "status": "operational",
+    "osm_node": 9210235490
+  },
+  {
+    "id": "centro-de-formacion",
+    "name": "Centro de Formación",
+    "lat": 10.4793396,
+    "lon": -66.9544291,
+    "lines": [
+      "P-604"
+    ],
+    "status": "operational",
+    "osm_node": 9209739852
+  },
+  {
+    "id": "centro-de-rehabilitacion",
+    "name": "Centro de Rehabilitación",
+    "lat": 10.4805431,
+    "lon": -66.9531621,
+    "lines": [
+      "P-604"
+    ],
+    "status": "operational",
+    "osm_node": 2164568176
+  },
+  {
+    "id": "centro-medico",
+    "name": "Centro Médico",
+    "lat": 10.432938,
+    "lon": -66.8564448,
+    "lines": [
+      "202"
+    ],
+    "status": "operational",
+    "osm_node": 9199525135
+  },
+  {
+    "id": "centro-medico-2",
+    "name": "Centro Médico",
+    "lat": 10.4327074,
+    "lon": -66.8558254,
+    "lines": [
+      "202"
+    ],
+    "status": "operational",
+    "osm_node": 1496086785
+  },
+  {
+    "id": "centro-medico-3",
+    "name": "Centro Médico",
+    "lat": 10.5111708,
+    "lon": -66.8965157,
+    "lines": [
+      "421"
+    ],
+    "status": "operational",
+    "osm_node": 9208098978
+  },
+  {
+    "id": "centro-profesional",
+    "name": "Centro Profesional",
+    "lat": 10.4638159,
+    "lon": -66.8407211,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 7356854526
+  },
+  {
+    "id": "cervantes",
+    "name": "Cervantes",
+    "lat": 10.4861376,
+    "lon": -66.8727618,
+    "lines": [
+      "315"
+    ],
+    "status": "operational",
+    "osm_node": 9207768261
+  },
+  {
+    "id": "chacaito",
+    "name": "Chacaíto",
+    "lat": 10.4918831,
+    "lon": -66.8681571,
+    "lines": [
+      "221",
+      "222"
+    ],
+    "status": "operational",
+    "osm_node": 2470254149
+  },
+  {
+    "id": "chacao",
+    "name": "Chacao",
+    "lat": 10.4652234,
+    "lon": -66.8100086,
+    "lines": [
+      "001"
+    ],
+    "status": "operational",
+    "osm_node": 9193029059
+  },
+  {
+    "id": "chaguaramos",
+    "name": "Chaguaramos",
+    "lat": 10.5057601,
+    "lon": -66.8733323,
+    "lines": [
+      "302"
+    ],
+    "status": "operational",
+    "osm_node": 9207617578
+  },
+  {
+    "id": "chama",
+    "name": "Chama",
+    "lat": 10.4849636,
+    "lon": -66.87514,
+    "lines": [
+      "315"
+    ],
+    "status": "operational",
+    "osm_node": 9207768262
+  },
+  {
+    "id": "chuao",
+    "name": "Chuao",
+    "lat": 10.4826503,
+    "lon": -66.8462488,
+    "lines": [
+      "201"
+    ],
+    "status": "operational",
+    "osm_node": 9199392193
+  },
+  {
+    "id": "chuao-2",
+    "name": "Chuao",
+    "lat": 10.4820706,
+    "lon": -66.844717,
+    "lines": [
+      "201"
+    ],
+    "status": "operational",
+    "osm_node": 9199392183
+  },
+  {
+    "id": "cigarral",
+    "name": "Cigarral",
+    "lat": 10.4304241,
+    "lon": -66.8412443,
+    "lines": [
+      "202"
+    ],
+    "status": "operational",
+    "osm_node": 9199525120
+  },
+  {
+    "id": "circunvalacion-del-sol",
+    "name": "Circunvalación del Sol",
+    "lat": 10.4631812,
+    "lon": -66.8325964,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 2802378921
+  },
+  {
+    "id": "circunvalacion-del-sol-2",
+    "name": "Circunvalación del Sol",
+    "lat": 10.4629033,
+    "lon": -66.8322159,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197413551
+  },
+  {
+    "id": "ciudad-universitaria",
+    "name": "Ciudad Universitaria",
+    "lat": 10.4877013,
+    "lon": -66.8887803,
+    "lines": [
+      "921"
+    ],
+    "status": "operational",
+    "osm_node": 9212147508
+  },
+  {
+    "id": "club-hipico",
+    "name": "Club Hípico",
+    "lat": 10.4472016,
+    "lon": -66.8714716,
+    "lines": [
+      "203"
+    ],
+    "status": "operational",
+    "osm_node": 1788373455
+  },
+  {
+    "id": "club-hipico-2",
+    "name": "Club Hípico",
+    "lat": 10.4477761,
+    "lon": -66.8718581,
+    "lines": [
+      "203",
+      "222"
+    ],
+    "status": "operational",
+    "osm_node": 9204751967
+  },
+  {
+    "id": "club-hipico-3",
+    "name": "Club Hípico",
+    "lat": 10.4478969,
+    "lon": -66.8720097,
+    "lines": [
+      "222"
+    ],
+    "status": "operational",
+    "osm_node": 9206600537
+  },
+  {
+    "id": "codazzi",
+    "name": "Codazzi",
+    "lat": 10.4836178,
+    "lon": -66.8883183,
+    "lines": [
+      "921"
+    ],
+    "status": "operational",
+    "osm_node": 9212147507
+  },
+  {
+    "id": "colegio-tiuna-i",
+    "name": "Colegio Tiuna I",
+    "lat": 10.4385045,
+    "lon": -66.9922335,
+    "lines": [
+      "712"
+    ],
+    "status": "operational",
+    "osm_node": 2348405516
+  },
+  {
+    "id": "colegio-tiuna-ii",
+    "name": "Colegio Tiuna II",
+    "lat": 10.4383227,
+    "lon": -66.9931401,
+    "lines": [
+      "712"
+    ],
+    "status": "operational",
+    "osm_node": 2293958626
+  },
+  {
+    "id": "comando",
+    "name": "Comando",
+    "lat": 10.4335359,
+    "lon": -66.9263215,
+    "lines": [
+      "802"
+    ],
+    "status": "operational",
+    "osm_node": 9212147423
+  },
+  {
+    "id": "coromoto",
+    "name": "Coromoto",
+    "lat": 10.513736,
+    "lon": -66.8896392,
+    "lines": [
+      "316"
+    ],
+    "status": "operational",
+    "osm_node": 9207916869
+  },
+  {
+    "id": "cuatricentenario",
+    "name": "Cuatricentenario",
+    "lat": 10.4346767,
+    "lon": -66.9943061,
+    "lines": [
+      "712"
+    ],
+    "status": "operational",
+    "osm_node": 2792915501
+  },
+  {
+    "id": "cumana",
+    "name": "Cumaná",
+    "lat": 10.5078096,
+    "lon": -66.8821546,
+    "lines": [
+      "314"
+    ],
+    "status": "operational",
+    "osm_node": 9207663706
+  },
+  {
+    "id": "cumanagoto",
+    "name": "Cumanagoto",
+    "lat": 10.4665781,
+    "lon": -66.8151101,
+    "lines": [
+      "001"
+    ],
+    "status": "operational",
+    "osm_node": 2846026863
+  },
+  {
+    "id": "cumanagoto-2",
+    "name": "Cumanagoto",
+    "lat": 10.4667215,
+    "lon": -66.8150153,
+    "lines": [
+      "001"
+    ],
+    "status": "operational",
+    "osm_node": 9193029056
+  },
+  {
+    "id": "da-vinci",
+    "name": "Da Vinci",
+    "lat": 10.4890145,
+    "lon": -66.8817151,
+    "lines": [
+      "315"
+    ],
+    "status": "operational",
+    "osm_node": 9207768269
+  },
+  {
+    "id": "diagnostico",
+    "name": "Diagnóstico",
+    "lat": 10.5136189,
+    "lon": -66.903037,
+    "lines": [
+      "421"
+    ],
+    "status": "operational",
+    "osm_node": 9208098973
+  },
+  {
+    "id": "domingo-luciani-i",
+    "name": "Domingo Luciani I",
+    "lat": 10.4731621,
+    "lon": -66.8089778,
+    "lines": [
+      "002"
+    ],
+    "status": "operational",
+    "osm_node": 9197145774
+  },
+  {
+    "id": "domingo-luciani-ii",
+    "name": "Domingo Luciani II",
+    "lat": 10.4732838,
+    "lon": -66.8096247,
+    "lines": [
+      "002"
+    ],
+    "status": "operational",
+    "osm_node": 2844698560
+  },
+  {
+    "id": "domingo-luciani-iii",
+    "name": "Domingo Luciani III",
+    "lat": 10.4712324,
+    "lon": -66.8107972,
+    "lines": [
+      "002"
+    ],
+    "status": "operational",
+    "osm_node": 9197145775
+  },
+  {
+    "id": "don-bosco",
+    "name": "Don Bosco",
+    "lat": 10.5034963,
+    "lon": -66.8735458,
+    "lines": [
+      "302"
+    ],
+    "status": "operational",
+    "osm_node": 9207617577
+  },
+  {
+    "id": "el-bosque",
+    "name": "El Bosque",
+    "lat": 10.5041278,
+    "lon": -66.8724761,
+    "lines": [
+      "302"
+    ],
+    "status": "operational",
+    "osm_node": 9207617581
+  },
+  {
+    "id": "el-limon",
+    "name": "El Limón",
+    "lat": 10.46564,
+    "lon": -66.8335841,
+    "lines": [
+      "121",
+      "201"
+    ],
+    "status": "operational",
+    "osm_node": 2412425320
+  },
+  {
+    "id": "el-limon-2",
+    "name": "El Limón",
+    "lat": 10.4661641,
+    "lon": -66.8338394,
+    "lines": [
+      "121",
+      "201"
+    ],
+    "status": "operational",
+    "osm_node": 834750058
+  },
+  {
+    "id": "el-marques",
+    "name": "El Marqués",
+    "lat": 10.4952154,
+    "lon": -66.8111417,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 9197279186
+  },
+  {
+    "id": "el-marques-2",
+    "name": "El Marqués",
+    "lat": 10.4952865,
+    "lon": -66.8110245,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 9197279174
+  },
+  {
+    "id": "el-naranjal",
+    "name": "El Naranjal",
+    "lat": 10.4860858,
+    "lon": -66.9270902,
+    "lines": [
+      "606"
+    ],
+    "status": "operational",
+    "osm_node": 9210220511
+  },
+  {
+    "id": "el-nuevo-pinar",
+    "name": "El Nuevo Pinar",
+    "lat": 10.4832264,
+    "lon": -66.9338843,
+    "lines": [
+      "606"
+    ],
+    "status": "operational",
+    "osm_node": 9210220513
+  },
+  {
+    "id": "el-parque-i",
+    "name": "El Parque I",
+    "lat": 10.5180451,
+    "lon": -66.9275861,
+    "lines": [
+      "542"
+    ],
+    "status": "operational",
+    "osm_node": 9212002306
+  },
+  {
+    "id": "el-parque-ii",
+    "name": "El Parque II",
+    "lat": 10.5189971,
+    "lon": -66.9274374,
+    "lines": [
+      "542"
+    ],
+    "status": "operational",
+    "osm_node": 3744783167
+  },
+  {
+    "id": "el-penon",
+    "name": "El Peñón",
+    "lat": 10.4386455,
+    "lon": -66.8757462,
+    "lines": [
+      "222"
+    ],
+    "status": "operational",
+    "osm_node": 9206600535
+  },
+  {
+    "id": "el-pinar",
+    "name": "El Pinar",
+    "lat": 10.4809258,
+    "lon": -66.9372041,
+    "lines": [
+      "606"
+    ],
+    "status": "operational",
+    "osm_node": 9210220514
+  },
+  {
+    "id": "el-placer-de-maria",
+    "name": "El Placer de María",
+    "lat": 10.4373065,
+    "lon": -66.8765436,
+    "lines": [
+      "222"
+    ],
+    "status": "operational",
+    "osm_node": 9206600534
+  },
+  {
+    "id": "el-rosario",
+    "name": "El Rosario",
+    "lat": 10.5216077,
+    "lon": -66.9259334,
+    "lines": [
+      "542"
+    ],
+    "status": "operational",
+    "osm_node": 3744783374
+  },
+  {
+    "id": "el-saman",
+    "name": "El Samán",
+    "lat": 10.4943073,
+    "lon": -66.8092197,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 9197279185
+  },
+  {
+    "id": "el-saman-2",
+    "name": "El Samán",
+    "lat": 10.4942666,
+    "lon": -66.8089852,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 2831724073
+  },
+  {
+    "id": "el-solitario",
+    "name": "El Solitario",
+    "lat": 10.5012986,
+    "lon": -66.958407,
+    "lines": [
+      "501"
+    ],
+    "status": "operational",
+    "osm_node": 9159469769
+  },
+  {
+    "id": "estadio",
+    "name": "Estadio",
+    "lat": 10.4988967,
+    "lon": -66.9560038,
+    "lines": [
+      "501"
+    ],
+    "status": "operational",
+    "osm_node": 9159466709
+  },
+  {
+    "id": "fe-y-alegria",
+    "name": "Fe y Alegría",
+    "lat": 10.4324182,
+    "lon": -66.9293827,
+    "lines": [
+      "801",
+      "802"
+    ],
+    "status": "operational",
+    "osm_node": 3386011147
+  },
+  {
+    "id": "fe-y-alegria-2",
+    "name": "Fe y Alegría",
+    "lat": 10.4326489,
+    "lon": -66.9292323,
+    "lines": [
+      "802"
+    ],
+    "status": "operational",
+    "osm_node": 9212147420
+  },
+  {
+    "id": "fuerzas-armadas",
+    "name": "Fuerzas Armadas",
+    "lat": 10.4925983,
+    "lon": -66.9111106,
+    "lines": [
+      "661"
+    ],
+    "status": "operational",
+    "osm_node": 9212041910
+  },
+  {
+    "id": "galipan",
+    "name": "Galipán",
+    "lat": 10.512759,
+    "lon": -66.9013111,
+    "lines": [
+      "421"
+    ],
+    "status": "operational",
+    "osm_node": 9208098972
+  },
+  {
+    "id": "gato-negro",
+    "name": "Gato Negro",
+    "lat": 10.5155446,
+    "lon": -66.9392473,
+    "lines": [
+      "533"
+    ],
+    "status": "operational",
+    "osm_node": 9214205985
+  },
+  {
+    "id": "geminis",
+    "name": "Géminis",
+    "lat": 10.4607772,
+    "lon": -66.8306315,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 2802378932
+  },
+  {
+    "id": "geminis-2",
+    "name": "Géminis",
+    "lat": 10.4605295,
+    "lon": -66.8303584,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197413552
+  },
+  {
+    "id": "gonzalez-rincones",
+    "name": "González Rincones",
+    "lat": 10.4345211,
+    "lon": -66.8627513,
+    "lines": [
+      "203"
+    ],
+    "status": "operational",
+    "osm_node": 9204751970
+  },
+  {
+    "id": "granaderos",
+    "name": "Granaderos",
+    "lat": 10.4972829,
+    "lon": -66.906231,
+    "lines": [
+      "661"
+    ],
+    "status": "operational",
+    "osm_node": 9212041914
+  },
+  {
+    "id": "guaicaipuro",
+    "name": "Guaicaipuro",
+    "lat": 10.4691941,
+    "lon": -66.8078299,
+    "lines": [
+      "002"
+    ],
+    "status": "operational",
+    "osm_node": 9197145772
+  },
+  {
+    "id": "hatillo-i",
+    "name": "Hatillo I",
+    "lat": 10.4266982,
+    "lon": -66.8270447,
+    "lines": [
+      "202"
+    ],
+    "status": "operational",
+    "osm_node": 9199525127
+  },
+  {
+    "id": "hatillo-ii",
+    "name": "Hatillo II",
+    "lat": 10.4251691,
+    "lon": -66.8237707,
+    "lines": [
+      "202"
+    ],
+    "status": "operational",
+    "osm_node": 9199525126
+  },
+  {
+    "id": "hatillo-ii-2",
+    "name": "Hatillo II",
+    "lat": 10.4254172,
+    "lon": -66.824103,
+    "lines": [
+      "202"
+    ],
+    "status": "operational",
+    "osm_node": 9199525125
+  },
+  {
+    "id": "hospital",
+    "name": "Hospital",
+    "lat": 10.4839387,
+    "lon": -66.9707912,
+    "lines": [
+      "P-771"
+    ],
+    "status": "operational",
+    "osm_node": 9210137842
+  },
+  {
+    "id": "hospital-de-ninos",
+    "name": "Hospital de Niños",
+    "lat": 10.5069551,
+    "lon": -66.9000394,
+    "lines": [
+      "421"
+    ],
+    "status": "operational",
+    "osm_node": 9208098982
+  },
+  {
+    "id": "hospital-de-ninos-2",
+    "name": "Hospital de Niños",
+    "lat": 10.5069752,
+    "lon": -66.9001764,
+    "lines": [
+      "421"
+    ],
+    "status": "operational",
+    "osm_node": 9208098981
+  },
+  {
+    "id": "ibarra",
+    "name": "Ibarra",
+    "lat": 10.4873764,
+    "lon": -66.87443,
+    "lines": [
+      "315"
+    ],
+    "status": "operational",
+    "osm_node": 9207768257
+  },
+  {
+    "id": "iesa",
+    "name": "IESA",
+    "lat": 10.5138913,
+    "lon": -66.8954804,
+    "lines": [
+      "421"
+    ],
+    "status": "operational",
+    "osm_node": 9208098977
+  },
+  {
+    "id": "ince",
+    "name": "INCE",
+    "lat": 10.4884675,
+    "lon": -66.8090181,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 9197279177
+  },
+  {
+    "id": "ince-2",
+    "name": "INCE",
+    "lat": 10.5077575,
+    "lon": -66.9448329,
+    "lines": [
+      "605"
+    ],
+    "status": "operational",
+    "osm_node": 9210433739
+  },
+  {
+    "id": "ivss",
+    "name": "IVSS",
+    "lat": 10.5053028,
+    "lon": -66.8948614,
+    "lines": [
+      "316"
+    ],
+    "status": "operational",
+    "osm_node": 9207916864
+  },
+  {
+    "id": "ivss-2",
+    "name": "IVSS",
+    "lat": 10.4336369,
+    "lon": -66.9623193,
+    "lines": [
+      "731"
+    ],
+    "status": "operational",
+    "osm_node": 2888287837
+  },
+  {
+    "id": "ivss-3",
+    "name": "IVSS",
+    "lat": 10.4332534,
+    "lon": -66.9624407,
+    "lines": [
+      "731"
+    ],
+    "status": "operational",
+    "osm_node": 9212082364
+  },
+  {
+    "id": "jose-maria-vargas",
+    "name": "José María Vargas",
+    "lat": 10.4974666,
+    "lon": -66.8342462,
+    "lines": [
+      "111"
+    ],
+    "status": "operational",
+    "osm_node": 9197335264
+  },
+  {
+    "id": "jose-maria-vargas-2",
+    "name": "José María Vargas",
+    "lat": 10.6001892,
+    "lon": -66.9671942,
+    "lines": [
+      "603"
+    ],
+    "status": "operational",
+    "osm_node": 9209689260
+  },
+  {
+    "id": "jose-marti",
+    "name": "José Martí",
+    "lat": 10.5091245,
+    "lon": -66.893006,
+    "lines": [
+      "316"
+    ],
+    "status": "operational",
+    "osm_node": 9207916866
+  },
+  {
+    "id": "juan-cuchara",
+    "name": "Juan Cuchara",
+    "lat": 10.4675056,
+    "lon": -66.947872,
+    "lines": [
+      "607"
+    ],
+    "status": "operational",
+    "osm_node": 2882862843
+  },
+  {
+    "id": "la-boyera",
+    "name": "La Boyera",
+    "lat": 10.4275298,
+    "lon": -66.8396496,
+    "lines": [
+      "202"
+    ],
+    "status": "operational",
+    "osm_node": 9199525130
+  },
+  {
+    "id": "la-boyera-2",
+    "name": "La Boyera",
+    "lat": 10.4276031,
+    "lon": -66.8395949,
+    "lines": [
+      "202"
+    ],
+    "status": "operational",
+    "osm_node": 9199525121
+  },
+  {
+    "id": "la-cabana",
+    "name": "La Cabaña",
+    "lat": 10.4262242,
+    "lon": -66.8356125,
+    "lines": [
+      "202"
+    ],
+    "status": "operational",
+    "osm_node": 9199525122
+  },
+  {
+    "id": "la-california",
+    "name": "La California",
+    "lat": 10.4822688,
+    "lon": -66.8187742,
+    "lines": [
+      "001",
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 2824692554
+  },
+  {
+    "id": "la-california-2",
+    "name": "La California",
+    "lat": 10.4815838,
+    "lon": -66.818257,
+    "lines": [
+      "002"
+    ],
+    "status": "operational",
+    "osm_node": 3942586104
+  },
+  {
+    "id": "la-chivera",
+    "name": "La Chivera",
+    "lat": 10.4887672,
+    "lon": -66.9187394,
+    "lines": [
+      "606"
+    ],
+    "status": "operational",
+    "osm_node": 4186809420
+  },
+  {
+    "id": "la-colina",
+    "name": "La Colina",
+    "lat": 10.5060931,
+    "lon": -66.8844903,
+    "lines": [
+      "314"
+    ],
+    "status": "operational",
+    "osm_node": 6718679505
+  },
+  {
+    "id": "la-colina-2",
+    "name": "La Colina",
+    "lat": 10.4851244,
+    "lon": -66.8854389,
+    "lines": [
+      "921"
+    ],
+    "status": "operational",
+    "osm_node": 7376419410
+  },
+  {
+    "id": "la-consolacion-i",
+    "name": "La Consolación I",
+    "lat": 10.4998195,
+    "lon": -66.8819391,
+    "lines": [
+      "314"
+    ],
+    "status": "operational",
+    "osm_node": 9207663713
+  },
+  {
+    "id": "la-consolacion-ii",
+    "name": "La Consolación II",
+    "lat": 10.4996727,
+    "lon": -66.8819902,
+    "lines": [
+      "314"
+    ],
+    "status": "operational",
+    "osm_node": 9207663712
+  },
+  {
+    "id": "la-estancia",
+    "name": "La Estancia",
+    "lat": 10.4837152,
+    "lon": -66.8512993,
+    "lines": [
+      "201"
+    ],
+    "status": "operational",
+    "osm_node": 9199392195
+  },
+  {
+    "id": "la-estancia-2",
+    "name": "La Estancia",
+    "lat": 10.4852554,
+    "lon": -66.8536972,
+    "lines": [
+      "201",
+      "203"
+    ],
+    "status": "operational",
+    "osm_node": 9199392182
+  },
+  {
+    "id": "la-farmacia",
+    "name": "La Farmacia",
+    "lat": 10.488711,
+    "lon": -66.913291,
+    "lines": [
+      "606"
+    ],
+    "status": "operational",
+    "osm_node": 4186806807
+  },
+  {
+    "id": "la-floresta",
+    "name": "La Floresta",
+    "lat": 10.4910069,
+    "lon": -66.8482615,
+    "lines": [
+      "201",
+      "202",
+      "203"
+    ],
+    "status": "operational",
+    "osm_node": 9199392181
+  },
+  {
+    "id": "la-guaira",
+    "name": "La Guaira",
+    "lat": 10.5057683,
+    "lon": -66.8807054,
+    "lines": [
+      "314"
+    ],
+    "status": "operational",
+    "osm_node": 9207663709
+  },
+  {
+    "id": "la-guairita",
+    "name": "La Guairita",
+    "lat": 10.4352029,
+    "lon": -66.8599057,
+    "lines": [
+      "202"
+    ],
+    "status": "operational",
+    "osm_node": 9199525136
+  },
+  {
+    "id": "la-guairita-2",
+    "name": "La Guairita",
+    "lat": 10.4353012,
+    "lon": -66.8598456,
+    "lines": [
+      "202"
+    ],
+    "status": "operational",
+    "osm_node": 9199525134
+  },
+  {
+    "id": "la-guairita-3",
+    "name": "La Guairita",
+    "lat": 10.4818495,
+    "lon": -66.8515116,
+    "lines": [
+      "203",
+      "221",
+      "P-681"
+    ],
+    "status": "operational",
+    "osm_node": 9206571100
+  },
+  {
+    "id": "la-india",
+    "name": "La India",
+    "lat": 10.4758532,
+    "lon": -66.9464087,
+    "lines": [
+      "606",
+      "607"
+    ],
+    "status": "operational",
+    "osm_node": 2808808522
+  },
+  {
+    "id": "la-india-2",
+    "name": "La India",
+    "lat": 10.4760574,
+    "lon": -66.946374,
+    "lines": [
+      "606",
+      "607"
+    ],
+    "status": "operational",
+    "osm_node": 9210122045
+  },
+  {
+    "id": "la-industria",
+    "name": "La Industria",
+    "lat": 10.4363939,
+    "lon": -66.874356,
+    "lines": [
+      "222"
+    ],
+    "status": "operational",
+    "osm_node": 9206600533
+  },
+  {
+    "id": "la-lagunita",
+    "name": "La Lagunita",
+    "lat": 10.4247278,
+    "lon": -66.8097665,
+    "lines": [
+      "202"
+    ],
+    "status": "operational",
+    "osm_node": 4134409838
+  },
+  {
+    "id": "la-muralla",
+    "name": "La Muralla",
+    "lat": 10.4273794,
+    "lon": -66.8288021,
+    "lines": [
+      "202"
+    ],
+    "status": "operational",
+    "osm_node": 9199525124
+  },
+  {
+    "id": "la-quebradita-i",
+    "name": "La Quebradita I",
+    "lat": 10.4916545,
+    "lon": -66.9463491,
+    "lines": [
+      "605"
+    ],
+    "status": "operational",
+    "osm_node": 9210433746
+  },
+  {
+    "id": "la-quebradita-ii",
+    "name": "La Quebradita II",
+    "lat": 10.4951587,
+    "lon": -66.9452897,
+    "lines": [
+      "605"
+    ],
+    "status": "operational",
+    "osm_node": 9210433744
+  },
+  {
+    "id": "la-rinconada",
+    "name": "La Rinconada",
+    "lat": 10.4333119,
+    "lon": -66.9362747,
+    "lines": [
+      "801",
+      "802"
+    ],
+    "status": "operational",
+    "osm_node": 2380707699
+  },
+  {
+    "id": "la-salle",
+    "name": "La Salle",
+    "lat": 10.5038917,
+    "lon": -66.8834996,
+    "lines": [
+      "314",
+      "316"
+    ],
+    "status": "operational",
+    "osm_node": 9207663704
+  },
+  {
+    "id": "la-silsa",
+    "name": "La Silsa",
+    "lat": 10.5028794,
+    "lon": -66.9483606,
+    "lines": [
+      "605"
+    ],
+    "status": "operational",
+    "osm_node": 9159465603
+  },
+  {
+    "id": "la-trinidad",
+    "name": "La Trinidad",
+    "lat": 10.4338818,
+    "lon": -66.8685114,
+    "lines": [
+      "203"
+    ],
+    "status": "operational",
+    "osm_node": 9204751971
+  },
+  {
+    "id": "la-trinidad-2",
+    "name": "La Trinidad",
+    "lat": 10.4342645,
+    "lon": -66.8692542,
+    "lines": [
+      "222"
+    ],
+    "status": "operational",
+    "osm_node": 9206600530
+  },
+  {
+    "id": "la-union",
+    "name": "La Unión",
+    "lat": 10.5071981,
+    "lon": -66.8836644,
+    "lines": [
+      "314"
+    ],
+    "status": "operational",
+    "osm_node": 9207663705
+  },
+  {
+    "id": "la-variante",
+    "name": "La Variante",
+    "lat": 10.4304477,
+    "lon": -66.8733922,
+    "lines": [
+      "222"
+    ],
+    "status": "operational",
+    "osm_node": 9206600529
+  },
+  {
+    "id": "la-vega",
+    "name": "La Vega",
+    "lat": 10.4742422,
+    "lon": -66.9474399,
+    "lines": [
+      "601"
+    ],
+    "status": "operational",
+    "osm_node": 2227681851
+  },
+  {
+    "id": "la-vega-2",
+    "name": "La Vega",
+    "lat": 10.4744573,
+    "lon": -66.944985,
+    "lines": [
+      "606"
+    ],
+    "status": "operational",
+    "osm_node": 9210220516
+  },
+  {
+    "id": "la-veguita",
+    "name": "La Veguita",
+    "lat": 10.4736707,
+    "lon": -66.9455027,
+    "lines": [
+      "607"
+    ],
+    "status": "operational",
+    "osm_node": 2187553146
+  },
+  {
+    "id": "la-via",
+    "name": "La Vía",
+    "lat": 10.5190187,
+    "lon": -66.9271446,
+    "lines": [
+      "542"
+    ],
+    "status": "operational",
+    "osm_node": 3744783163
+  },
+  {
+    "id": "la-villa",
+    "name": "La Villa",
+    "lat": 10.4729762,
+    "lon": -66.9561777,
+    "lines": [
+      "601"
+    ],
+    "status": "operational",
+    "osm_node": 9208148763
+  },
+  {
+    "id": "lagoven",
+    "name": "Lagoven",
+    "lat": 10.4866364,
+    "lon": -66.886007,
+    "lines": [
+      "921"
+    ],
+    "status": "operational",
+    "osm_node": 9212178846
+  },
+  {
+    "id": "las-acacias",
+    "name": "Las Acacias",
+    "lat": 10.5011964,
+    "lon": -66.8792315,
+    "lines": [
+      "316"
+    ],
+    "status": "operational",
+    "osm_node": 9207916876
+  },
+  {
+    "id": "las-brisas",
+    "name": "Las Brisas",
+    "lat": 10.485912,
+    "lon": -66.9293205,
+    "lines": [
+      "606"
+    ],
+    "status": "operational",
+    "osm_node": 9210220512
+  },
+  {
+    "id": "las-casitas",
+    "name": "Las Casitas",
+    "lat": 10.4658544,
+    "lon": -66.9462304,
+    "lines": [
+      "607"
+    ],
+    "status": "operational",
+    "osm_node": 2882862854
+  },
+  {
+    "id": "las-esmeraldas",
+    "name": "Las Esmeraldas",
+    "lat": 10.4310545,
+    "lon": -66.8455485,
+    "lines": [
+      "202"
+    ],
+    "status": "operational",
+    "osm_node": 9199525133
+  },
+  {
+    "id": "las-esmeraldas-2",
+    "name": "Las Esmeraldas",
+    "lat": 10.4311534,
+    "lon": -66.8454239,
+    "lines": [
+      "202"
+    ],
+    "status": "operational",
+    "osm_node": 9199525132
+  },
+  {
+    "id": "las-mayas",
+    "name": "Las Mayas",
+    "lat": 10.4310251,
+    "lon": -66.9247909,
+    "lines": [
+      "802"
+    ],
+    "status": "operational",
+    "osm_node": 9212147422
+  },
+  {
+    "id": "las-mercedes",
+    "name": "Las Mercedes",
+    "lat": 10.4848341,
+    "lon": -66.8646344,
+    "lines": [
+      "221",
+      "222",
+      "P-681"
+    ],
+    "status": "operational",
+    "osm_node": 9206571099
+  },
+  {
+    "id": "las-mercedes-2",
+    "name": "Las Mercedes",
+    "lat": 10.4863716,
+    "lon": -66.8652719,
+    "lines": [
+      "221"
+    ],
+    "status": "operational",
+    "osm_node": 9206571090
+  },
+  {
+    "id": "las-palmas",
+    "name": "Las Palmas",
+    "lat": 10.5040135,
+    "lon": -66.8804747,
+    "lines": [
+      "314"
+    ],
+    "status": "operational",
+    "osm_node": 315463092
+  },
+  {
+    "id": "las-tunas",
+    "name": "Las Tunas",
+    "lat": 10.5236758,
+    "lon": -66.9399393,
+    "lines": [
+      "533"
+    ],
+    "status": "operational",
+    "osm_node": 1881638259
+  },
+  {
+    "id": "las-vegas",
+    "name": "Las Vegas",
+    "lat": 10.4362085,
+    "lon": -66.865895,
+    "lines": [
+      "203"
+    ],
+    "status": "operational",
+    "osm_node": 9204751968
+  },
+  {
+    "id": "lazo-marti",
+    "name": "Lazo Martí",
+    "lat": 10.4732103,
+    "lon": -66.891492,
+    "lines": [
+      "921"
+    ],
+    "status": "operational",
+    "osm_node": 9212147503
+  },
+  {
+    "id": "lecuna",
+    "name": "Lecuna",
+    "lat": 10.4889633,
+    "lon": -66.8226268,
+    "lines": [
+      "122"
+    ],
+    "status": "operational",
+    "osm_node": 9197594317
+  },
+  {
+    "id": "libel",
+    "name": "Libel",
+    "lat": 10.4982812,
+    "lon": -66.8209879,
+    "lines": [
+      "122"
+    ],
+    "status": "operational",
+    "osm_node": 9197590613
+  },
+  {
+    "id": "libertador",
+    "name": "Libertador",
+    "lat": 10.5010702,
+    "lon": -66.9602602,
+    "lines": [
+      "501"
+    ],
+    "status": "operational",
+    "osm_node": 9210235494
+  },
+  {
+    "id": "liceo",
+    "name": "Liceo",
+    "lat": 10.5183646,
+    "lon": -66.9374617,
+    "lines": [
+      "533"
+    ],
+    "status": "operational",
+    "osm_node": 9214205983
+  },
+  {
+    "id": "liceo-caricuao",
+    "name": "Liceo Caricuao",
+    "lat": 10.4310446,
+    "lon": -66.9597387,
+    "lines": [
+      "731"
+    ],
+    "status": "operational",
+    "osm_node": 2385689141
+  },
+  {
+    "id": "lidice-i",
+    "name": "Lídice I",
+    "lat": 10.5158906,
+    "lon": -66.9279736,
+    "lines": [
+      "541",
+      "542"
+    ],
+    "status": "operational",
+    "osm_node": 9212002307
+  },
+  {
+    "id": "lidice-ii",
+    "name": "Lídice II",
+    "lat": 10.5198623,
+    "lon": -66.9301378,
+    "lines": [
+      "541",
+      "542"
+    ],
+    "status": "operational",
+    "osm_node": 9212002298
+  },
+  {
+    "id": "lidice-iii",
+    "name": "Lídice III",
+    "lat": 10.5212922,
+    "lon": -66.9316572,
+    "lines": [
+      "541"
+    ],
+    "status": "operational",
+    "osm_node": 9212002300
+  },
+  {
+    "id": "lidice-iv",
+    "name": "Lídice IV",
+    "lat": 10.521415,
+    "lon": -66.9282494,
+    "lines": [
+      "542"
+    ],
+    "status": "operational",
+    "osm_node": 9212002303
+  },
+  {
+    "id": "lincoln",
+    "name": "Lincoln",
+    "lat": 10.4901112,
+    "lon": -66.8810737,
+    "lines": [
+      "315"
+    ],
+    "status": "operational",
+    "osm_node": 9207768270
+  },
+  {
+    "id": "lisandro-alvarado",
+    "name": "Lisandro Alvarado",
+    "lat": 10.4730562,
+    "lon": -66.8928426,
+    "lines": [
+      "921"
+    ],
+    "status": "operational",
+    "osm_node": 9212147504
+  },
+  {
+    "id": "lomas-del-avila-i",
+    "name": "Lomas del Ávila I",
+    "lat": 10.4814416,
+    "lon": -66.7908066,
+    "lines": [
+      "021"
+    ],
+    "status": "operational",
+    "osm_node": 3633737468
+  },
+  {
+    "id": "lomas-del-avila-ii",
+    "name": "Lomas del Ávila II",
+    "lat": 10.4825408,
+    "lon": -66.788218,
+    "lines": [
+      "021"
+    ],
+    "status": "operational",
+    "osm_node": 9197343264
+  },
+  {
+    "id": "los-angeles",
+    "name": "Los Ángeles",
+    "lat": 10.4314632,
+    "lon": -66.9749322,
+    "lines": [
+      "731"
+    ],
+    "status": "operational",
+    "osm_node": 9212066320
+  },
+  {
+    "id": "los-caciques",
+    "name": "Los Caciques",
+    "lat": 10.4663422,
+    "lon": -66.8069738,
+    "lines": [
+      "002"
+    ],
+    "status": "operational",
+    "osm_node": 9197145770
+  },
+  {
+    "id": "los-caribes",
+    "name": "Los Caribes",
+    "lat": 10.4676986,
+    "lon": -66.8073726,
+    "lines": [
+      "002"
+    ],
+    "status": "operational",
+    "osm_node": 9197145771
+  },
+  {
+    "id": "los-chaguaramos",
+    "name": "Los Chaguaramos",
+    "lat": 10.4869658,
+    "lon": -66.8876174,
+    "lines": [
+      "921"
+    ],
+    "status": "operational",
+    "osm_node": 9212178845
+  },
+  {
+    "id": "los-chorros",
+    "name": "Los Chorros",
+    "lat": 10.5083282,
+    "lon": -66.8339285,
+    "lines": [
+      "111"
+    ],
+    "status": "operational",
+    "osm_node": 6750539633
+  },
+  {
+    "id": "los-cortijos",
+    "name": "Los Cortijos",
+    "lat": 10.4899411,
+    "lon": -66.8273439,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 2824649425
+  },
+  {
+    "id": "los-cortijos-2",
+    "name": "Los Cortijos",
+    "lat": 10.4898782,
+    "lon": -66.8271347,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197417206
+  },
+  {
+    "id": "los-cortijos-3",
+    "name": "Los Cortijos",
+    "lat": 10.4889531,
+    "lon": -66.8262654,
+    "lines": [
+      "122"
+    ],
+    "status": "operational",
+    "osm_node": 2824649436
+  },
+  {
+    "id": "los-cortijos-4",
+    "name": "Los Cortijos",
+    "lat": 10.4889064,
+    "lon": -66.826054,
+    "lines": [
+      "122"
+    ],
+    "status": "operational",
+    "osm_node": 9197594318
+  },
+  {
+    "id": "los-cortijos-5",
+    "name": "Los Cortijos",
+    "lat": 10.5071658,
+    "lon": -66.8937967,
+    "lines": [
+      "316"
+    ],
+    "status": "operational",
+    "osm_node": 9207916865
+  },
+  {
+    "id": "los-dos-caminos",
+    "name": "Los Dos Caminos",
+    "lat": 10.4943988,
+    "lon": -66.8323798,
+    "lines": [
+      "111"
+    ],
+    "status": "operational",
+    "osm_node": 9197335276
+  },
+  {
+    "id": "los-frailes",
+    "name": "Los Frailes",
+    "lat": 10.5164817,
+    "lon": -66.9381783,
+    "lines": [
+      "533"
+    ],
+    "status": "operational",
+    "osm_node": 9214205984
+  },
+  {
+    "id": "los-ilustres",
+    "name": "Los Ilustres",
+    "lat": 10.4752618,
+    "lon": -66.8950586,
+    "lines": [
+      "921"
+    ],
+    "status": "operational",
+    "osm_node": 9212147505
+  },
+  {
+    "id": "los-jabillos",
+    "name": "Los Jabillos",
+    "lat": 10.4994662,
+    "lon": -66.8768772,
+    "lines": [
+      "302"
+    ],
+    "status": "operational",
+    "osm_node": 9207617585
+  },
+  {
+    "id": "los-jabillos-2",
+    "name": "Los Jabillos",
+    "lat": 10.4986832,
+    "lon": -66.8805845,
+    "lines": [
+      "316"
+    ],
+    "status": "operational",
+    "osm_node": 6718664288
+  },
+  {
+    "id": "los-mangos",
+    "name": "Los Mangos",
+    "lat": 10.5096766,
+    "lon": -66.8736092,
+    "lines": [
+      "302"
+    ],
+    "status": "operational",
+    "osm_node": 9207617579
+  },
+  {
+    "id": "los-mangos-2",
+    "name": "Los Mangos",
+    "lat": 10.520441,
+    "lon": -66.9262319,
+    "lines": [
+      "542"
+    ],
+    "status": "operational",
+    "osm_node": 9212002304
+  },
+  {
+    "id": "los-manolos",
+    "name": "Los Manolos",
+    "lat": 10.5038423,
+    "lon": -66.8823877,
+    "lines": [
+      "316"
+    ],
+    "status": "operational",
+    "osm_node": 9207916875
+  },
+  {
+    "id": "los-mendoza",
+    "name": "Los Mendoza",
+    "lat": 10.5060234,
+    "lon": -66.8366283,
+    "lines": [
+      "111"
+    ],
+    "status": "operational",
+    "osm_node": 9197335270
+  },
+  {
+    "id": "los-naranjos",
+    "name": "Los Naranjos",
+    "lat": 10.4573624,
+    "lon": -66.8291884,
+    "lines": [
+      "201"
+    ],
+    "status": "operational",
+    "osm_node": 9199392188
+  },
+  {
+    "id": "los-pinos",
+    "name": "Los Pinos",
+    "lat": 10.4272339,
+    "lon": -66.8374046,
+    "lines": [
+      "202"
+    ],
+    "status": "operational",
+    "osm_node": 9199525129
+  },
+  {
+    "id": "los-pinos-2",
+    "name": "Los Pinos",
+    "lat": 10.5080558,
+    "lon": -66.8742824,
+    "lines": [
+      "302"
+    ],
+    "status": "operational",
+    "osm_node": 6718856756
+  },
+  {
+    "id": "los-proceres",
+    "name": "Los Próceres",
+    "lat": 10.5159268,
+    "lon": -66.9012786,
+    "lines": [
+      "421"
+    ],
+    "status": "operational",
+    "osm_node": 9208098975
+  },
+  {
+    "id": "los-robles",
+    "name": "Los Robles",
+    "lat": 10.5148863,
+    "lon": -66.9307002,
+    "lines": [
+      "541",
+      "542"
+    ],
+    "status": "operational",
+    "osm_node": 9212002296
+  },
+  {
+    "id": "los-ruices",
+    "name": "Los Ruices",
+    "lat": 10.4831412,
+    "lon": -66.8303508,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197417201
+  },
+  {
+    "id": "los-ruices-sur",
+    "name": "Los Ruices Sur",
+    "lat": 10.4799842,
+    "lon": -66.8321327,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197417203
+  },
+  {
+    "id": "los-ruices-sur-2",
+    "name": "Los Ruices Sur",
+    "lat": 10.480082,
+    "lon": -66.8320171,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197417202
+  },
+  {
+    "id": "los-telares",
+    "name": "Los Telares",
+    "lat": 10.4844011,
+    "lon": -66.9110257,
+    "lines": [
+      "606"
+    ],
+    "status": "operational",
+    "osm_node": 11694559241
+  },
+  {
+    "id": "macaracuay",
+    "name": "Macaracuay",
+    "lat": 10.4692163,
+    "lon": -66.81951,
+    "lines": [
+      "001"
+    ],
+    "status": "operational",
+    "osm_node": 2846035250
+  },
+  {
+    "id": "macaracuay-2",
+    "name": "Macaracuay",
+    "lat": 10.4694386,
+    "lon": -66.8195645,
+    "lines": [
+      "001"
+    ],
+    "status": "operational",
+    "osm_node": 6793166580
+  },
+  {
+    "id": "maiquetia",
+    "name": "Maiquetía",
+    "lat": 10.5974451,
+    "lon": -66.9515405,
+    "lines": [
+      "603"
+    ],
+    "status": "operational",
+    "osm_node": 9209689258
+  },
+  {
+    "id": "mariano-picon",
+    "name": "Mariano Picón",
+    "lat": 10.5052024,
+    "lon": -66.9584658,
+    "lines": [
+      "501"
+    ],
+    "status": "operational",
+    "osm_node": 9210235497
+  },
+  {
+    "id": "mariscal-sucre",
+    "name": "Mariscal Sucre",
+    "lat": 10.48643,
+    "lon": -66.9123223,
+    "lines": [
+      "606"
+    ],
+    "status": "operational",
+    "osm_node": 9210220508
+  },
+  {
+    "id": "maternidad",
+    "name": "Maternidad",
+    "lat": 10.5148988,
+    "lon": -66.903146,
+    "lines": [
+      "421"
+    ],
+    "status": "operational",
+    "osm_node": 9208098974
+  },
+  {
+    "id": "maternidad-2",
+    "name": "Maternidad",
+    "lat": 10.4859344,
+    "lon": -66.9751105,
+    "lines": [
+      "P-771"
+    ],
+    "status": "operational",
+    "osm_node": 2822703618
+  },
+  {
+    "id": "materno",
+    "name": "Materno",
+    "lat": 10.4382172,
+    "lon": -66.9904901,
+    "lines": [
+      "712"
+    ],
+    "status": "operational",
+    "osm_node": 9212094000
+  },
+  {
+    "id": "medina",
+    "name": "Medina",
+    "lat": 10.4862443,
+    "lon": -66.9104263,
+    "lines": [
+      "606"
+    ],
+    "status": "operational",
+    "osm_node": 9210220506
+  },
+  {
+    "id": "medina-2",
+    "name": "Medina",
+    "lat": 10.4866078,
+    "lon": -66.9108493,
+    "lines": [
+      "606"
+    ],
+    "status": "operational",
+    "osm_node": 9210220507
+  },
+  {
+    "id": "mediterraneo",
+    "name": "Mediterráneo",
+    "lat": 10.4257835,
+    "lon": -66.8315922,
+    "lines": [
+      "202"
+    ],
+    "status": "operational",
+    "osm_node": 9199525128
+  },
+  {
+    "id": "mediterraneo-2",
+    "name": "Mediterráneo",
+    "lat": 10.4258169,
+    "lon": -66.8317477,
+    "lines": [
+      "202"
+    ],
+    "status": "operational",
+    "osm_node": 9199525123
+  },
+  {
+    "id": "mejias",
+    "name": "Mejías",
+    "lat": 10.5185467,
+    "lon": -66.9418055,
+    "lines": [
+      "533"
+    ],
+    "status": "operational",
+    "osm_node": 1881595670
+  },
+  {
+    "id": "mendez-gimon",
+    "name": "Méndez Gimón",
+    "lat": 10.5035994,
+    "lon": -66.8815747,
+    "lines": [
+      "314",
+      "316"
+    ],
+    "status": "operational",
+    "osm_node": 2823424300
+  },
+  {
+    "id": "merca-mayor",
+    "name": "Merca Mayor",
+    "lat": 10.4750068,
+    "lon": -66.9639791,
+    "lines": [
+      "P-771"
+    ],
+    "status": "operational",
+    "osm_node": 9210137847
+  },
+  {
+    "id": "merca-mayor-2",
+    "name": "Merca Mayor",
+    "lat": 10.4748755,
+    "lon": -66.9639135,
+    "lines": [
+      "P-771"
+    ],
+    "status": "operational",
+    "osm_node": 9210137846
+  },
+  {
+    "id": "mercado",
+    "name": "Mercado",
+    "lat": 10.4696658,
+    "lon": -66.9474698,
+    "lines": [
+      "607"
+    ],
+    "status": "operational",
+    "osm_node": 2420300760
+  },
+  {
+    "id": "mercal",
+    "name": "Mercal",
+    "lat": 10.439682,
+    "lon": -66.9899288,
+    "lines": [
+      "712"
+    ],
+    "status": "operational",
+    "osm_node": 9212094001
+  },
+  {
+    "id": "mercurio",
+    "name": "Mercurio",
+    "lat": 10.4613901,
+    "lon": -66.8372194,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 6823115791
+  },
+  {
+    "id": "mercurio-2",
+    "name": "Mercurio",
+    "lat": 10.4613257,
+    "lon": -66.8371936,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 6823431680
+  },
+  {
+    "id": "metro-agua-salud",
+    "name": "Metro Agua Salud",
+    "lat": 10.5135743,
+    "lon": -66.9304862,
+    "lines": [
+      "541",
+      "542"
+    ],
+    "status": "operational",
+    "osm_node": 2303040066
+  },
+  {
+    "id": "metro-agua-salud-2",
+    "name": "Metro Agua Salud",
+    "lat": 10.5129605,
+    "lon": -66.930787,
+    "lines": [
+      "605"
+    ],
+    "status": "operational",
+    "osm_node": 9210455685
+  },
+  {
+    "id": "metro-antimano",
+    "name": "Metro Antímano",
+    "lat": 10.465335,
+    "lon": -66.9785499,
+    "lines": [
+      "601"
+    ],
+    "status": "operational",
+    "osm_node": 3249427073
+  },
+  {
+    "id": "metro-bello-monte",
+    "name": "Metro Bello Monte",
+    "lat": 10.4868746,
+    "lon": -66.8742508,
+    "lines": [
+      "P-681"
+    ],
+    "status": "operational",
+    "osm_node": 3743527775
+  },
+  {
+    "id": "metro-la-paz",
+    "name": "Metro La Paz",
+    "lat": 10.4843886,
+    "lon": -66.9478191,
+    "lines": [
+      "601"
+    ],
+    "status": "operational",
+    "osm_node": 2227762205
+  },
+  {
+    "id": "metro-la-paz-2",
+    "name": "Metro La Paz",
+    "lat": 10.4842982,
+    "lon": -66.947984,
+    "lines": [
+      "603"
+    ],
+    "status": "operational",
+    "osm_node": 3255466159
+  },
+  {
+    "id": "metro-la-paz-3",
+    "name": "Metro La Paz",
+    "lat": 10.4841544,
+    "lon": -66.9479149,
+    "lines": [
+      "605"
+    ],
+    "status": "operational",
+    "osm_node": 2227762213
+  },
+  {
+    "id": "metro-la-paz-4",
+    "name": "Metro La Paz",
+    "lat": 10.4842802,
+    "lon": -66.9477727,
+    "lines": [
+      "606"
+    ],
+    "status": "operational",
+    "osm_node": 3255466158
+  },
+  {
+    "id": "metro-la-paz-5",
+    "name": "Metro La Paz",
+    "lat": 10.4844008,
+    "lon": -66.9476176,
+    "lines": [
+      "607"
+    ],
+    "status": "operational",
+    "osm_node": 3130651384
+  },
+  {
+    "id": "metro-la-paz-6",
+    "name": "Metro La Paz",
+    "lat": 10.4842148,
+    "lon": -66.9481553,
+    "lines": [
+      "P-604"
+    ],
+    "status": "operational",
+    "osm_node": 3255466155
+  },
+  {
+    "id": "metro-la-yaguara",
+    "name": "Metro La Yaguara",
+    "lat": 10.4772906,
+    "lon": -66.9591249,
+    "lines": [
+      "P-771"
+    ],
+    "status": "operational",
+    "osm_node": 9210137848
+  },
+  {
+    "id": "metro-propatria",
+    "name": "Metro Propatria",
+    "lat": 10.504373,
+    "lon": -66.9560702,
+    "lines": [
+      "501"
+    ],
+    "status": "operational",
+    "osm_node": 9210235498
+  },
+  {
+    "id": "metro-ruiz-pineda",
+    "name": "Metro Ruiz Pineda",
+    "lat": 10.4365894,
+    "lon": -66.9973272,
+    "lines": [
+      "712"
+    ],
+    "status": "operational",
+    "osm_node": 2791779233
+  },
+  {
+    "id": "metro-zoologico",
+    "name": "Metro Zoológico",
+    "lat": 10.432565,
+    "lon": -66.9722224,
+    "lines": [
+      "731"
+    ],
+    "status": "operational",
+    "osm_node": 2884682341
+  },
+  {
+    "id": "metro-zoologico-2",
+    "name": "Metro Zoológico",
+    "lat": 10.432462,
+    "lon": -66.9724207,
+    "lines": [
+      "731"
+    ],
+    "status": "operational",
+    "osm_node": 9212066321
+  },
+  {
+    "id": "metrocable",
+    "name": "MetroCable",
+    "lat": 10.4939905,
+    "lon": -66.9095668,
+    "lines": [
+      "661"
+    ],
+    "status": "operational",
+    "osm_node": 9212041912
+  },
+  {
+    "id": "metropolitana",
+    "name": "Metropolitana",
+    "lat": 10.4771934,
+    "lon": -66.8348054,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197413565
+  },
+  {
+    "id": "metropolitana-2",
+    "name": "Metropolitana",
+    "lat": 10.4770908,
+    "lon": -66.8344763,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197413564
+  },
+  {
+    "id": "miguel-angel",
+    "name": "Miguel Angel",
+    "lat": 10.4865087,
+    "lon": -66.8707953,
+    "lines": [
+      "315",
+      "P-681"
+    ],
+    "status": "operational",
+    "osm_node": 9207768260
+  },
+  {
+    "id": "miguel-otero-silva",
+    "name": "Miguel Otero Silva",
+    "lat": 10.5050266,
+    "lon": -66.8366371,
+    "lines": [
+      "111"
+    ],
+    "status": "operational",
+    "osm_node": 9197335271
+  },
+  {
+    "id": "miranda",
+    "name": "Miranda",
+    "lat": 10.5003907,
+    "lon": -66.9553493,
+    "lines": [
+      "501"
+    ],
+    "status": "operational",
+    "osm_node": 9159466705
+  },
+  {
+    "id": "mohedano",
+    "name": "Mohedano",
+    "lat": 10.4899844,
+    "lon": -66.8641535,
+    "lines": [
+      "221"
+    ],
+    "status": "operational",
+    "osm_node": 9206571089
+  },
+  {
+    "id": "montalban-i",
+    "name": "Montalbán I",
+    "lat": 10.4745293,
+    "lon": -66.9505873,
+    "lines": [
+      "601"
+    ],
+    "status": "operational",
+    "osm_node": 9208187349
+  },
+  {
+    "id": "montalban-ii",
+    "name": "Montalbán II",
+    "lat": 10.473832,
+    "lon": -66.9530718,
+    "lines": [
+      "601"
+    ],
+    "status": "operational",
+    "osm_node": 9208148764
+  },
+  {
+    "id": "montalban-iii",
+    "name": "Montalbán III",
+    "lat": 10.4718972,
+    "lon": -66.9614336,
+    "lines": [
+      "601"
+    ],
+    "status": "operational",
+    "osm_node": 9208148761
+  },
+  {
+    "id": "monterrey",
+    "name": "Monterrey",
+    "lat": 10.4834727,
+    "lon": -66.8631755,
+    "lines": [
+      "221",
+      "222",
+      "P-681"
+    ],
+    "status": "operational",
+    "osm_node": 9206571098
+  },
+  {
+    "id": "monterrey-ii",
+    "name": "Monterrey II",
+    "lat": 10.4855849,
+    "lon": -66.862784,
+    "lines": [
+      "221",
+      "P-681"
+    ],
+    "status": "operational",
+    "osm_node": 9206571091
+  },
+  {
+    "id": "motatan",
+    "name": "Motatán",
+    "lat": 10.4827788,
+    "lon": -66.878056,
+    "lines": [
+      "315"
+    ],
+    "status": "operational",
+    "osm_node": 3147890887
+  },
+  {
+    "id": "mucuchies",
+    "name": "Mucuchíes",
+    "lat": 10.4848808,
+    "lon": -66.8611127,
+    "lines": [
+      "221",
+      "P-681"
+    ],
+    "status": "operational",
+    "osm_node": 9206571092
+  },
+  {
+    "id": "mucuritas",
+    "name": "Mucuritas",
+    "lat": 10.4312174,
+    "lon": -66.9777738,
+    "lines": [
+      "731"
+    ],
+    "status": "operational",
+    "osm_node": 2349369025
+  },
+  {
+    "id": "museo-historico",
+    "name": "Museo Histórico",
+    "lat": 10.5051577,
+    "lon": -66.9277657,
+    "lines": [
+      "605"
+    ],
+    "status": "operational",
+    "osm_node": 324713205
+  },
+  {
+    "id": "naiguata",
+    "name": "Naiguatá",
+    "lat": 10.472305,
+    "lon": -66.8069712,
+    "lines": [
+      "002"
+    ],
+    "status": "operational",
+    "osm_node": 9197145766
+  },
+  {
+    "id": "negrin",
+    "name": "Negrín",
+    "lat": 10.5016562,
+    "lon": -66.8756138,
+    "lines": [
+      "302"
+    ],
+    "status": "operational",
+    "osm_node": 9207617584
+  },
+  {
+    "id": "nueva-york",
+    "name": "Nueva York",
+    "lat": 10.48116,
+    "lon": -66.860689,
+    "lines": [
+      "221",
+      "222",
+      "P-681"
+    ],
+    "status": "operational",
+    "osm_node": 9206571097
+  },
+  {
+    "id": "nueva-york-ii",
+    "name": "Nueva York II",
+    "lat": 10.4834207,
+    "lon": -66.8580967,
+    "lines": [
+      "221",
+      "P-681"
+    ],
+    "status": "operational",
+    "osm_node": 9206571094
+  },
+  {
+    "id": "nuevo-circo",
+    "name": "Nuevo Circo",
+    "lat": 10.4992216,
+    "lon": -66.9089821,
+    "lines": [
+      "661"
+    ],
+    "status": "operational",
+    "osm_node": 9212041915
+  },
+  {
+    "id": "nunez-ponte",
+    "name": "Núñez Ponte",
+    "lat": 10.4344272,
+    "lon": -66.9983343,
+    "lines": [
+      "712"
+    ],
+    "status": "operational",
+    "osm_node": 9212093998
+  },
+  {
+    "id": "o-higgins",
+    "name": "O'Higgins",
+    "lat": 10.4787241,
+    "lon": -66.9474534,
+    "lines": [
+      "601",
+      "606",
+      "607"
+    ],
+    "status": "operational",
+    "osm_node": 2227704690
+  },
+  {
+    "id": "o-higgins-2",
+    "name": "O'Higgins",
+    "lat": 10.4785811,
+    "lon": -66.9474898,
+    "lines": [
+      "606",
+      "607"
+    ],
+    "status": "operational",
+    "osm_node": 2227704685
+  },
+  {
+    "id": "orinoco",
+    "name": "Orinoco",
+    "lat": 10.4799069,
+    "lon": -66.8593114,
+    "lines": [
+      "221",
+      "222",
+      "P-681"
+    ],
+    "status": "operational",
+    "osm_node": 7399850138
+  },
+  {
+    "id": "orinoco-2",
+    "name": "Orinoco",
+    "lat": 10.5205873,
+    "lon": -66.94212,
+    "lines": [
+      "533"
+    ],
+    "status": "operational",
+    "osm_node": 9214205980
+  },
+  {
+    "id": "orinoco-ii",
+    "name": "Orinoco II",
+    "lat": 10.4804575,
+    "lon": -66.8561643,
+    "lines": [
+      "221"
+    ],
+    "status": "operational",
+    "osm_node": 9206571096
+  },
+  {
+    "id": "oxford",
+    "name": "Oxford",
+    "lat": 10.4887234,
+    "lon": -66.8762841,
+    "lines": [
+      "315"
+    ],
+    "status": "operational",
+    "osm_node": 9207768256
+  },
+  {
+    "id": "palo-verde",
+    "name": "Palo Verde",
+    "lat": 10.4785227,
+    "lon": -66.7977468,
+    "lines": [
+      "021"
+    ],
+    "status": "operational",
+    "osm_node": 3264648842
+  },
+  {
+    "id": "panaquire",
+    "name": "Panaquire",
+    "lat": 10.4918516,
+    "lon": -66.8085428,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 9197279175
+  },
+  {
+    "id": "panteon",
+    "name": "Panteón",
+    "lat": 10.5111986,
+    "lon": -66.9012139,
+    "lines": [
+      "421"
+    ],
+    "status": "operational",
+    "osm_node": 9208098971
+  },
+  {
+    "id": "paramacay",
+    "name": "Paramacay",
+    "lat": 10.4702233,
+    "lon": -66.8073218,
+    "lines": [
+      "002"
+    ],
+    "status": "operational",
+    "osm_node": 9197145767
+  },
+  {
+    "id": "pariata",
+    "name": "Pariata",
+    "lat": 10.5986272,
+    "lon": -66.9615674,
+    "lines": [
+      "603"
+    ],
+    "status": "operational",
+    "osm_node": 9209689259
+  },
+  {
+    "id": "parque-2",
+    "name": "Parque 2",
+    "lat": 10.4696653,
+    "lon": -66.9698033,
+    "lines": [
+      "601"
+    ],
+    "status": "operational",
+    "osm_node": 9208165058
+  },
+  {
+    "id": "parque-5",
+    "name": "Parque 5",
+    "lat": 10.4710976,
+    "lon": -66.9671185,
+    "lines": [
+      "601"
+    ],
+    "status": "operational",
+    "osm_node": 9208165057
+  },
+  {
+    "id": "parque-8",
+    "name": "Parque 8",
+    "lat": 10.4720641,
+    "lon": -66.9650565,
+    "lines": [
+      "601"
+    ],
+    "status": "operational",
+    "osm_node": 9208165056
+  },
+  {
+    "id": "parque-caricuao",
+    "name": "Parque Caricuao",
+    "lat": 10.4330508,
+    "lon": -66.9673306,
+    "lines": [
+      "731"
+    ],
+    "status": "operational",
+    "osm_node": 9212066318
+  },
+  {
+    "id": "parque-caricuao-2",
+    "name": "Parque Caricuao",
+    "lat": 10.4332017,
+    "lon": -66.9673524,
+    "lines": [
+      "731"
+    ],
+    "status": "operational",
+    "osm_node": 2888300964
+  },
+  {
+    "id": "parque-humboldt",
+    "name": "Parque Humboldt",
+    "lat": 10.4500276,
+    "lon": -66.87287,
+    "lines": [
+      "203",
+      "222"
+    ],
+    "status": "operational",
+    "osm_node": 9204751973
+  },
+  {
+    "id": "parque-humboldt-2",
+    "name": "Parque Humboldt",
+    "lat": 10.4494947,
+    "lon": -66.8725822,
+    "lines": [
+      "203",
+      "222"
+    ],
+    "status": "operational",
+    "osm_node": 9204751966
+  },
+  {
+    "id": "parque-miranda",
+    "name": "Parque Miranda",
+    "lat": 10.4965139,
+    "lon": -66.8356607,
+    "lines": [
+      "111"
+    ],
+    "status": "operational",
+    "osm_node": 9197335275
+  },
+  {
+    "id": "parque-sanz",
+    "name": "Parque Sanz",
+    "lat": 10.4888881,
+    "lon": -66.8153721,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 9197279189
+  },
+  {
+    "id": "parque-sanz-2",
+    "name": "Parque Sanz",
+    "lat": 10.489427,
+    "lon": -66.8158369,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 9197279171
+  },
+  {
+    "id": "pasaje-9",
+    "name": "Pasaje 9",
+    "lat": 10.4946727,
+    "lon": -66.9070641,
+    "lines": [
+      "661"
+    ],
+    "status": "operational",
+    "osm_node": 9212041913
+  },
+  {
+    "id": "paseo-las-mercedes",
+    "name": "Paseo Las Mercedes",
+    "lat": 10.4777799,
+    "lon": -66.8579303,
+    "lines": [
+      "203",
+      "222"
+    ],
+    "status": "operational",
+    "osm_node": 9204751974
+  },
+  {
+    "id": "paseo-las-mercedes-2",
+    "name": "Paseo Las Mercedes",
+    "lat": 10.4773016,
+    "lon": -66.8579632,
+    "lines": [
+      "203",
+      "222"
+    ],
+    "status": "operational",
+    "osm_node": 1796890595
+  },
+  {
+    "id": "patrocinio-penuela",
+    "name": "Patrocinio Peñuela",
+    "lat": 10.5011779,
+    "lon": -66.8184047,
+    "lines": [
+      "122"
+    ],
+    "status": "operational",
+    "osm_node": 8035212610
+  },
+  {
+    "id": "pediatrico",
+    "name": "Pediátrico",
+    "lat": 10.4839106,
+    "lon": -66.9731381,
+    "lines": [
+      "P-771"
+    ],
+    "status": "operational",
+    "osm_node": 9210137841
+  },
+  {
+    "id": "pedro-camejo",
+    "name": "Pedro Camejo",
+    "lat": 10.5105216,
+    "lon": -66.8924204,
+    "lines": [
+      "316"
+    ],
+    "status": "operational",
+    "osm_node": 9207916867
+  },
+  {
+    "id": "piedra-azul",
+    "name": "Piedra Azul",
+    "lat": 10.430907,
+    "lon": -66.8745819,
+    "lines": [
+      "222"
+    ],
+    "status": "operational",
+    "osm_node": 9206600528
+  },
+  {
+    "id": "pinto-salinas",
+    "name": "Pinto Salinas",
+    "lat": 10.5075492,
+    "lon": -66.8886858,
+    "lines": [
+      "316"
+    ],
+    "status": "operational",
+    "osm_node": 9207916872
+  },
+  {
+    "id": "plaza-andres-bello",
+    "name": "Plaza Andrés Bello",
+    "lat": 10.5052165,
+    "lon": -66.8890899,
+    "lines": [
+      "316"
+    ],
+    "status": "operational",
+    "osm_node": 9207916873
+  },
+  {
+    "id": "plaza-boleita",
+    "name": "Plaza Boleíta",
+    "lat": 10.4892259,
+    "lon": -66.8239104,
+    "lines": [
+      "122"
+    ],
+    "status": "operational",
+    "osm_node": 3115204754
+  },
+  {
+    "id": "plaza-caracas",
+    "name": "Plaza Caracas",
+    "lat": 10.5095805,
+    "lon": -66.8814659,
+    "lines": [
+      "314"
+    ],
+    "status": "operational",
+    "osm_node": 9207663707
+  },
+  {
+    "id": "plaza-el-consul",
+    "name": "Plaza El Cónsul",
+    "lat": 10.5976678,
+    "lon": -66.9478234,
+    "lines": [
+      "603"
+    ],
+    "status": "operational",
+    "osm_node": 9209689257
+  },
+  {
+    "id": "plaza-lincoln",
+    "name": "Plaza Lincoln",
+    "lat": 10.4895184,
+    "lon": -66.8804482,
+    "lines": [
+      "315"
+    ],
+    "status": "operational",
+    "osm_node": 9207768268
+  },
+  {
+    "id": "plaza-venezuela",
+    "name": "Plaza Venezuela",
+    "lat": 10.4962823,
+    "lon": -66.8818493,
+    "lines": [
+      "314",
+      "315",
+      "316"
+    ],
+    "status": "operational",
+    "osm_node": 2418387258
+  },
+  {
+    "id": "policaracas",
+    "name": "PoliCaracas",
+    "lat": 10.4771436,
+    "lon": -66.9407582,
+    "lines": [
+      "606"
+    ],
+    "status": "operational",
+    "osm_node": 9210220515
+  },
+  {
+    "id": "policia",
+    "name": "Policía",
+    "lat": 10.5206336,
+    "lon": -66.9373748,
+    "lines": [
+      "533"
+    ],
+    "status": "operational",
+    "osm_node": 4181654457
+  },
+  {
+    "id": "polideportivo",
+    "name": "Polideportivo",
+    "lat": 10.4601071,
+    "lon": -66.8346268,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197413558
+  },
+  {
+    "id": "polideportivo-2",
+    "name": "Polideportivo",
+    "lat": 10.460175,
+    "lon": -66.8356902,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197413555
+  },
+  {
+    "id": "prados-del-este",
+    "name": "Prados del Este",
+    "lat": 10.4525815,
+    "lon": -66.8763433,
+    "lines": [
+      "203"
+    ],
+    "status": "operational",
+    "osm_node": 9204751972
+  },
+  {
+    "id": "providencia",
+    "name": "Providencia",
+    "lat": 10.4356179,
+    "lon": -66.8699259,
+    "lines": [
+      "222"
+    ],
+    "status": "operational",
+    "osm_node": 9206600531
+  },
+  {
+    "id": "psiquiatrico",
+    "name": "Psiquiátrico",
+    "lat": 10.5237998,
+    "lon": -66.9299587,
+    "lines": [
+      "541"
+    ],
+    "status": "operational",
+    "osm_node": 3316684031
+  },
+  {
+    "id": "puente-hierro",
+    "name": "Puente Hierro",
+    "lat": 10.4933981,
+    "lon": -66.9119487,
+    "lines": [
+      "661"
+    ],
+    "status": "operational",
+    "osm_node": 9212041911
+  },
+  {
+    "id": "queseras-del-medio",
+    "name": "Queseras del Medio",
+    "lat": 10.430763,
+    "lon": -66.9731156,
+    "lines": [
+      "731"
+    ],
+    "status": "operational",
+    "osm_node": 2387757528
+  },
+  {
+    "id": "rincon-del-taxista",
+    "name": "Rincón del Taxista",
+    "lat": 10.5120947,
+    "lon": -66.9276884,
+    "lines": [
+      "541",
+      "542"
+    ],
+    "status": "operational",
+    "osm_node": 9212002309
+  },
+  {
+    "id": "rio-de-janeiro",
+    "name": "Río de Janeiro",
+    "lat": 10.4825586,
+    "lon": -66.8547959,
+    "lines": [
+      "203"
+    ],
+    "status": "operational",
+    "osm_node": 9204751975
+  },
+  {
+    "id": "rio-de-janeiro-i",
+    "name": "Río de Janeiro I",
+    "lat": 10.4741367,
+    "lon": -66.8176836,
+    "lines": [
+      "001"
+    ],
+    "status": "operational",
+    "osm_node": 2844622946
+  },
+  {
+    "id": "rio-de-janeiro-i-2",
+    "name": "Río de Janeiro I",
+    "lat": 10.4741607,
+    "lon": -66.817558,
+    "lines": [
+      "001"
+    ],
+    "status": "operational",
+    "osm_node": 6793123382
+  },
+  {
+    "id": "rio-de-janeiro-i-3",
+    "name": "Río de Janeiro I",
+    "lat": 10.4754383,
+    "lon": -66.8179036,
+    "lines": [
+      "002"
+    ],
+    "status": "operational",
+    "osm_node": 9197145778
+  },
+  {
+    "id": "rio-de-janeiro-i-4",
+    "name": "Río de Janeiro I",
+    "lat": 10.5020482,
+    "lon": -66.8810266,
+    "lines": [
+      "314"
+    ],
+    "status": "operational",
+    "osm_node": 9207663711
+  },
+  {
+    "id": "rio-de-janeiro-ii",
+    "name": "Río de Janeiro II",
+    "lat": 10.4747074,
+    "lon": -66.8160944,
+    "lines": [
+      "002"
+    ],
+    "status": "operational",
+    "osm_node": 6793788060
+  },
+  {
+    "id": "rio-de-janeiro-ii-2",
+    "name": "Río de Janeiro II",
+    "lat": 10.5017502,
+    "lon": -66.8811762,
+    "lines": [
+      "314"
+    ],
+    "status": "operational",
+    "osm_node": 9207663710
+  },
+  {
+    "id": "risquez",
+    "name": "Rísquez",
+    "lat": 10.4834385,
+    "lon": -66.887202,
+    "lines": [
+      "921"
+    ],
+    "status": "operational",
+    "osm_node": 9212178847
+  },
+  {
+    "id": "romulo-gallegos",
+    "name": "Rómulo Gallegos",
+    "lat": 10.4935024,
+    "lon": -66.8220051,
+    "lines": [
+      "122"
+    ],
+    "status": "operational",
+    "osm_node": 9197590615
+  },
+  {
+    "id": "rosa-ines",
+    "name": "Rosa Inés",
+    "lat": 10.5049729,
+    "lon": -66.932412,
+    "lines": [
+      "605"
+    ],
+    "status": "operational",
+    "osm_node": 9210455687
+  },
+  {
+    "id": "ruperto-lugo",
+    "name": "Ruperto Lugo",
+    "lat": 10.5241588,
+    "lon": -66.9374224,
+    "lines": [
+      "533"
+    ],
+    "status": "operational",
+    "osm_node": 9214205982
+  },
+  {
+    "id": "sabana-grande",
+    "name": "Sabana Grande",
+    "lat": 10.4952132,
+    "lon": -66.8765454,
+    "lines": [
+      "302"
+    ],
+    "status": "operational",
+    "osm_node": 267522213
+  },
+  {
+    "id": "salto-angel",
+    "name": "Salto Angel",
+    "lat": 10.497671,
+    "lon": -66.9567065,
+    "lines": [
+      "501"
+    ],
+    "status": "operational",
+    "osm_node": 9210235491
+  },
+  {
+    "id": "salvador-llamozas",
+    "name": "Salvador Llamozas",
+    "lat": 10.4770244,
+    "lon": -66.8879011,
+    "lines": [
+      "921"
+    ],
+    "status": "operational",
+    "osm_node": 9212147500
+  },
+  {
+    "id": "san-agustin",
+    "name": "San Agustín",
+    "lat": 10.4865603,
+    "lon": -66.8162832,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 9197279190
+  },
+  {
+    "id": "san-agustin-2",
+    "name": "San Agustín",
+    "lat": 10.4870791,
+    "lon": -66.8161568,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 9197279170
+  },
+  {
+    "id": "san-agustin-3",
+    "name": "San Agustín",
+    "lat": 10.4298207,
+    "lon": -66.97691,
+    "lines": [
+      "731"
+    ],
+    "status": "operational",
+    "osm_node": 2349369073
+  },
+  {
+    "id": "san-antonio",
+    "name": "San Antonio",
+    "lat": 10.4677451,
+    "lon": -66.8172999,
+    "lines": [
+      "001"
+    ],
+    "status": "operational",
+    "osm_node": 9193029061
+  },
+  {
+    "id": "san-antonio-2",
+    "name": "San Antonio",
+    "lat": 10.4677627,
+    "lon": -66.8172209,
+    "lines": [
+      "001"
+    ],
+    "status": "operational",
+    "osm_node": 9193029058
+  },
+  {
+    "id": "san-felix",
+    "name": "San Félix",
+    "lat": 10.5027336,
+    "lon": -66.832877,
+    "lines": [
+      "111"
+    ],
+    "status": "operational",
+    "osm_node": 9197335266
+  },
+  {
+    "id": "san-francisco",
+    "name": "San Francisco",
+    "lat": 10.4775249,
+    "lon": -66.8175501,
+    "lines": [
+      "001",
+      "002"
+    ],
+    "status": "operational",
+    "osm_node": 9193029063
+  },
+  {
+    "id": "san-luis",
+    "name": "San Luis",
+    "lat": 10.468601,
+    "lon": -66.8363339,
+    "lines": [
+      "121",
+      "201"
+    ],
+    "status": "operational",
+    "osm_node": 9197413561
+  },
+  {
+    "id": "san-luis-2",
+    "name": "San Luis",
+    "lat": 10.4696227,
+    "lon": -66.8368467,
+    "lines": [
+      "121",
+      "201"
+    ],
+    "status": "operational",
+    "osm_node": 9197413549
+  },
+  {
+    "id": "san-pablo",
+    "name": "San Pablo",
+    "lat": 10.483034,
+    "lon": -66.8789791,
+    "lines": [
+      "315"
+    ],
+    "status": "operational",
+    "osm_node": 9207768265
+  },
+  {
+    "id": "san-sebastian",
+    "name": "San Sebastián",
+    "lat": 10.436123,
+    "lon": -66.8719487,
+    "lines": [
+      "222"
+    ],
+    "status": "operational",
+    "osm_node": 9206600532
+  },
+  {
+    "id": "santa-ana",
+    "name": "Santa Ana",
+    "lat": 10.4616973,
+    "lon": -66.8302099,
+    "lines": [
+      "201"
+    ],
+    "status": "operational",
+    "osm_node": 9199392189
+  },
+  {
+    "id": "santa-ana-2",
+    "name": "Santa Ana",
+    "lat": 10.4618055,
+    "lon": -66.8301166,
+    "lines": [
+      "201"
+    ],
+    "status": "operational",
+    "osm_node": 9199392186
+  },
+  {
+    "id": "santa-clara",
+    "name": "Santa Clara",
+    "lat": 10.4599024,
+    "lon": -66.8288374,
+    "lines": [
+      "201"
+    ],
+    "status": "operational",
+    "osm_node": 9199392187
+  },
+  {
+    "id": "santa-fe",
+    "name": "Santa Fe",
+    "lat": 10.4635729,
+    "lon": -66.8641178,
+    "lines": [
+      "202",
+      "203",
+      "222"
+    ],
+    "status": "operational",
+    "osm_node": 9199525138
+  },
+  {
+    "id": "santa-ines",
+    "name": "Santa Inés",
+    "lat": 10.4626213,
+    "lon": -66.8640832,
+    "lines": [
+      "202",
+      "203",
+      "222"
+    ],
+    "status": "operational",
+    "osm_node": 1838617346
+  },
+  {
+    "id": "santa-marta",
+    "name": "Santa Marta",
+    "lat": 10.4785031,
+    "lon": -66.8437629,
+    "lines": [
+      "201"
+    ],
+    "status": "operational",
+    "osm_node": 9199392192
+  },
+  {
+    "id": "santa-marta-2",
+    "name": "Santa Marta",
+    "lat": 10.4780394,
+    "lon": -66.8423105,
+    "lines": [
+      "201"
+    ],
+    "status": "operational",
+    "osm_node": 9199392184
+  },
+  {
+    "id": "santa-monica",
+    "name": "Santa Mónica",
+    "lat": 10.4784227,
+    "lon": -66.8921444,
+    "lines": [
+      "921"
+    ],
+    "status": "operational",
+    "osm_node": 9212147506
+  },
+  {
+    "id": "santa-paula-i",
+    "name": "Santa Paula I",
+    "lat": 10.4645227,
+    "lon": -66.8325381,
+    "lines": [
+      "121",
+      "201"
+    ],
+    "status": "operational",
+    "osm_node": 9197413550
+  },
+  {
+    "id": "santa-paula-i-2",
+    "name": "Santa Paula I",
+    "lat": 10.4635941,
+    "lon": -66.8319195,
+    "lines": [
+      "201"
+    ],
+    "status": "operational",
+    "osm_node": 9199392190
+  },
+  {
+    "id": "santa-paula-ii",
+    "name": "Santa Paula II",
+    "lat": 10.4593072,
+    "lon": -66.8314047,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197413560
+  },
+  {
+    "id": "santa-paula-ii-2",
+    "name": "Santa Paula II",
+    "lat": 10.4595006,
+    "lon": -66.8316942,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197413553
+  },
+  {
+    "id": "santa-rosa",
+    "name": "Santa Rosa",
+    "lat": 10.504621,
+    "lon": -66.8909025,
+    "lines": [
+      "316"
+    ],
+    "status": "operational",
+    "osm_node": 9207916862
+  },
+  {
+    "id": "santa-sofia",
+    "name": "Santa Sofía",
+    "lat": 10.4745302,
+    "lon": -66.8398794,
+    "lines": [
+      "201"
+    ],
+    "status": "operational",
+    "osm_node": 9199392191
+  },
+  {
+    "id": "santa-sofia-2",
+    "name": "Santa Sofía",
+    "lat": 10.4750397,
+    "lon": -66.8400754,
+    "lines": [
+      "201"
+    ],
+    "status": "operational",
+    "osm_node": 9199392185
+  },
+  {
+    "id": "simon-planas",
+    "name": "Simón Planas",
+    "lat": 10.4786102,
+    "lon": -66.887675,
+    "lines": [
+      "921"
+    ],
+    "status": "operational",
+    "osm_node": 9212147499
+  },
+  {
+    "id": "simon-rodriguez",
+    "name": "Simón Rodríguez",
+    "lat": 10.5103735,
+    "lon": -66.8875546,
+    "lines": [
+      "316"
+    ],
+    "status": "operational",
+    "osm_node": 9207916871
+  },
+  {
+    "id": "simon-rodriguez-2",
+    "name": "Simón Rodríguez",
+    "lat": 10.4708219,
+    "lon": -66.9584127,
+    "lines": [
+      "601"
+    ],
+    "status": "operational",
+    "osm_node": 9208165055
+  },
+  {
+    "id": "sorbona",
+    "name": "Sorbona",
+    "lat": 10.4889079,
+    "lon": -66.8779658,
+    "lines": [
+      "315"
+    ],
+    "status": "operational",
+    "osm_node": 761542085
+  },
+  {
+    "id": "sorocaima",
+    "name": "Sorocaima",
+    "lat": 10.4924643,
+    "lon": -66.8140598,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 9197279188
+  },
+  {
+    "id": "sorocaima-2",
+    "name": "Sorocaima",
+    "lat": 10.4925141,
+    "lon": -66.8141372,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 9197279172
+  },
+  {
+    "id": "sorocaima-3",
+    "name": "Sorocaima",
+    "lat": 10.4333512,
+    "lon": -66.8644521,
+    "lines": [
+      "203"
+    ],
+    "status": "operational",
+    "osm_node": 6830852466
+  },
+  {
+    "id": "sucre",
+    "name": "Sucre",
+    "lat": 10.5053056,
+    "lon": -66.8322265,
+    "lines": [
+      "111"
+    ],
+    "status": "operational",
+    "osm_node": 9197335267
+  },
+  {
+    "id": "supra",
+    "name": "Supra",
+    "lat": 10.4242994,
+    "lon": -66.9279921,
+    "lines": [
+      "802"
+    ],
+    "status": "operational",
+    "osm_node": 9212147425
+  },
+  {
+    "id": "tamanaco",
+    "name": "Tamanaco",
+    "lat": 10.4664874,
+    "lon": -66.8061238,
+    "lines": [
+      "002"
+    ],
+    "status": "operational",
+    "osm_node": 9197145769
+  },
+  {
+    "id": "tamanaco-2",
+    "name": "Tamanaco",
+    "lat": 10.4824396,
+    "lon": -66.8535829,
+    "lines": [
+      "201",
+      "203"
+    ],
+    "status": "operational",
+    "osm_node": 9199392196
+  },
+  {
+    "id": "tamanaco-3",
+    "name": "Tamanaco",
+    "lat": 10.4892829,
+    "lon": -66.8682724,
+    "lines": [
+      "222"
+    ],
+    "status": "operational",
+    "osm_node": 9206600526
+  },
+  {
+    "id": "tarabay",
+    "name": "Tarabay",
+    "lat": 10.4939172,
+    "lon": -66.8130108,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 9197279187
+  },
+  {
+    "id": "tarabay-2",
+    "name": "Tarabay",
+    "lat": 10.4939704,
+    "lon": -66.8130885,
+    "lines": [
+      "003"
+    ],
+    "status": "operational",
+    "osm_node": 9197279173
+  },
+  {
+    "id": "teatro-8",
+    "name": "Teatro 8",
+    "lat": 10.480312,
+    "lon": -66.854011,
+    "lines": [
+      "203",
+      "P-681"
+    ],
+    "status": "operational",
+    "osm_node": 9204751965
+  },
+  {
+    "id": "teleferico",
+    "name": "Teleférico",
+    "lat": 10.5124104,
+    "lon": -66.8857084,
+    "lines": [
+      "316"
+    ],
+    "status": "operational",
+    "osm_node": 9207916870
+  },
+  {
+    "id": "teo-capriles",
+    "name": "Teo Capriles",
+    "lat": 10.4718568,
+    "lon": -66.8196992,
+    "lines": [
+      "001"
+    ],
+    "status": "operational",
+    "osm_node": 9193029062
+  },
+  {
+    "id": "teo-capriles-2",
+    "name": "Teo Capriles",
+    "lat": 10.4717766,
+    "lon": -66.8196052,
+    "lines": [
+      "001"
+    ],
+    "status": "operational",
+    "osm_node": 9193029057
+  },
+  {
+    "id": "terepaima",
+    "name": "Terepaima",
+    "lat": 10.4660969,
+    "lon": -66.8123996,
+    "lines": [
+      "001"
+    ],
+    "status": "operational",
+    "osm_node": 9193029060
+  },
+  {
+    "id": "terepaima-2",
+    "name": "Terepaima",
+    "lat": 10.4677987,
+    "lon": -66.8065537,
+    "lines": [
+      "002"
+    ],
+    "status": "operational",
+    "osm_node": 9197145768
+  },
+  {
+    "id": "teresa-de-la-parra",
+    "name": "Teresa de La Parra",
+    "lat": 10.4771554,
+    "lon": -66.8933346,
+    "lines": [
+      "921"
+    ],
+    "status": "operational",
+    "osm_node": 1575022502
+  },
+  {
+    "id": "tiuna",
+    "name": "Tiuna",
+    "lat": 10.4726325,
+    "lon": -66.8076978,
+    "lines": [
+      "002"
+    ],
+    "status": "operational",
+    "osm_node": 9197145773
+  },
+  {
+    "id": "tocuyo",
+    "name": "Tocuyo",
+    "lat": 10.4817252,
+    "lon": -66.8796506,
+    "lines": [
+      "315"
+    ],
+    "status": "operational",
+    "osm_node": 9207768264
+  },
+  {
+    "id": "trinidad",
+    "name": "Trinidad",
+    "lat": 10.4841829,
+    "lon": -66.8596836,
+    "lines": [
+      "221",
+      "P-681"
+    ],
+    "status": "operational",
+    "osm_node": 6639369957
+  },
+  {
+    "id": "turmerito",
+    "name": "Turmerito",
+    "lat": 10.422591,
+    "lon": -66.9310909,
+    "lines": [
+      "802"
+    ],
+    "status": "operational",
+    "osm_node": 9212147421
+  },
+  {
+    "id": "una",
+    "name": "UNA",
+    "lat": 10.5081038,
+    "lon": -66.8357905,
+    "lines": [
+      "111"
+    ],
+    "status": "operational",
+    "osm_node": 9197335269
+  },
+  {
+    "id": "universidad",
+    "name": "Universidad",
+    "lat": 10.4655036,
+    "lon": -66.9741476,
+    "lines": [
+      "601"
+    ],
+    "status": "operational",
+    "osm_node": 9208165059
+  },
+  {
+    "id": "valencia",
+    "name": "Valencia",
+    "lat": 10.507394,
+    "lon": -66.881033,
+    "lines": [
+      "314"
+    ],
+    "status": "operational",
+    "osm_node": 9207663708
+  },
+  {
+    "id": "vargas",
+    "name": "Vargas",
+    "lat": 10.4991606,
+    "lon": -66.8191889,
+    "lines": [
+      "122"
+    ],
+    "status": "operational",
+    "osm_node": 9197590612
+  },
+  {
+    "id": "velodromo",
+    "name": "Velódromo",
+    "lat": 10.4733908,
+    "lon": -66.9494521,
+    "lines": [
+      "601"
+    ],
+    "status": "operational",
+    "osm_node": 2227599180
+  },
+  {
+    "id": "venus",
+    "name": "Venus",
+    "lat": 10.4614165,
+    "lon": -66.8390663,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 2802377783
+  },
+  {
+    "id": "venus-2",
+    "name": "Venus",
+    "lat": 10.461152,
+    "lon": -66.8387778,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197413556
+  },
+  {
+    "id": "veracruz",
+    "name": "Veracruz",
+    "lat": 10.4794198,
+    "lon": -66.8564643,
+    "lines": [
+      "203"
+    ],
+    "status": "operational",
+    "osm_node": 2651269454
+  },
+  {
+    "id": "veracruz-2",
+    "name": "Veracruz",
+    "lat": 10.4786208,
+    "lon": -66.856259,
+    "lines": [
+      "203",
+      "221",
+      "P-681"
+    ],
+    "status": "operational",
+    "osm_node": 891135300
+  },
+  {
+    "id": "veracruz-i",
+    "name": "Veracruz I",
+    "lat": 10.5197977,
+    "lon": -66.9291783,
+    "lines": [
+      "541"
+    ],
+    "status": "operational",
+    "osm_node": 9212002302
+  },
+  {
+    "id": "veracruz-ii",
+    "name": "Veracruz II",
+    "lat": 10.5199825,
+    "lon": -66.9316912,
+    "lines": [
+      "541"
+    ],
+    "status": "operational",
+    "osm_node": 9212002299
+  },
+  {
+    "id": "villa-zoila",
+    "name": "Villa Zoila",
+    "lat": 10.4884936,
+    "lon": -66.9151586,
+    "lines": [
+      "606"
+    ],
+    "status": "operational",
+    "osm_node": 9210220509
+  },
+  {
+    "id": "virgen-nina",
+    "name": "Virgen Niña",
+    "lat": 10.4971327,
+    "lon": -66.9589182,
+    "lines": [
+      "501"
+    ],
+    "status": "operational",
+    "osm_node": 9210235492
+  },
+  {
+    "id": "vollmer",
+    "name": "Vollmer",
+    "lat": 10.5089604,
+    "lon": -66.8991828,
+    "lines": [
+      "421"
+    ],
+    "status": "operational",
+    "osm_node": 9208098980
+  },
+  {
+    "id": "vollmer-2",
+    "name": "Vollmer",
+    "lat": 10.5088173,
+    "lon": -66.9000107,
+    "lines": [
+      "421"
+    ],
+    "status": "operational",
+    "osm_node": 9208098979
+  },
+  {
+    "id": "yaruma",
+    "name": "Yaruma",
+    "lat": 10.4984048,
+    "lon": -66.9551428,
+    "lines": [
+      "501"
+    ],
+    "status": "operational",
+    "osm_node": 9159468765
+  },
+  {
+    "id": "yurubi",
+    "name": "Yurubí",
+    "lat": 10.4985288,
+    "lon": -66.9588894,
+    "lines": [
+      "501"
+    ],
+    "status": "operational",
+    "osm_node": 9210235493
+  },
+  {
+    "id": "zona-industrial",
+    "name": "Zona Industrial",
+    "lat": 10.4363296,
+    "lon": -66.8637976,
+    "lines": [
+      "203"
+    ],
+    "status": "operational",
+    "osm_node": 9204751969
+  },
+  {
+    "id": "zona-industrial-i",
+    "name": "Zona Industrial I",
+    "lat": 10.4844419,
+    "lon": -66.827237,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197417205
+  },
+  {
+    "id": "zona-industrial-i-2",
+    "name": "Zona Industrial I",
+    "lat": 10.4844625,
+    "lon": -66.8271982,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197417199
+  },
+  {
+    "id": "zona-industrial-ii",
+    "name": "Zona Industrial II",
+    "lat": 10.4823892,
+    "lon": -66.8275018,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197417204
+  },
+  {
+    "id": "zona-industrial-ii-2",
+    "name": "Zona Industrial II",
+    "lat": 10.4828624,
+    "lon": -66.827733,
+    "lines": [
+      "121"
+    ],
+    "status": "operational",
+    "osm_node": 9197417200
+  }
+]
